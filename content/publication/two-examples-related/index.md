@@ -20,8 +20,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: Preprint
-publication_short: Preprint
+publication: To appear in Ann. Acad. Sci. Fenn. Math.
+publication_short: To appear in Ann. Acad. Sci. Fenn. Math.
 
 abstract: "In a recent article we introduced and studied conical energies. We used them to prove three results: a characterization of rectifiable measures, a characterization of sets with big pieces of Lipschitz graphs, and a sufficient condition for boundedness of nice singular integral operators. In this note we give two examples related to sharpness of these results. One of them is due to Joyce and Mörters, the other is new and could be of independent interest as an example of a relatively ugly set containing big pieces of Lipschitz graphs."
 # Summary. An optional shortened abstract.
@@ -33,9 +33,9 @@ tags: []
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: arXiv:2011.12717
-#   url: https://arxiv.org/abs/2011.12717
+ links:
+ - name: arXiv:2011.12717
+   url: https://arxiv.org/abs/2011.12717
 
 url_pdf: ''
 url_code: ''
