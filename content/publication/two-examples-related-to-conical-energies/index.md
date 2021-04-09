@@ -14,9 +14,5 @@ abstract: "In a recent article we introduced and studied conical energies. We
   Lipschitz graphs. "
 draft: false
 featured: false
-image:
-  filename: ""
-  focal_point: Smart
-  preview_only: false
 date: 2021-04-09T14:27:27.348Z
 ---
