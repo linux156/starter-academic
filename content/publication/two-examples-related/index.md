@@ -35,7 +35,7 @@ featured: false
 # Custom links (uncomment lines below)
  links:
  - name: "arXiv:2011.12717"
-   url: "https://arxiv.org/abs/2011.12717"
+   url: https://arxiv.org/abs/2011.12717
 
 url_pdf: ''
 url_code: ''
