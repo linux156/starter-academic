@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: ["hugo-cloak-email", "mytheme"]
+theme: "mytheme"
 day_night: true
 font: lato
 font_size: M
@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: {{< cloakemail address="jane.doe@example.com" display="Send me an e-mail!" >}}
+email: "damian.m.dabrowski [at] jyu.fi"
 address:
   street: P.O. Box 35 (MaD)
   city: University of Jyväskylä
