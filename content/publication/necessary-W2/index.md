@@ -1,5 +1,5 @@
 ---
-title: "Necessary condition for rectifiability involving Wasserstein distance {$W_2$}"
+title: "Necessary condition for rectifiability involving Wasserstein distance $W_2$"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -23,7 +23,7 @@ publication_types: ["2"]
 publication: Int. Math. Res. Not. IMRN 2020(22), 8936–8972
 publication_short: Int. Math. Res. Not. IMRN
 
-abstract: "A Radon measure μ is n-rectifiable if it is absolutely continuous with respect to n-dimensional Hausdorff measure and μ-almost all of suppμ can be covered by Lipschitz images of Rn⁠. In this paper, we give a necessary condition for rectifiability in terms of the so-called α2 numbers — coefficients quantifying flatness using Wasserstein distance W2⁠. In a recent article, we showed that the same condition is also sufficient for rectifiability, and so we get a new characterization of rectifiable measures."
+abstract: "A Radon measure $\mu$ is $n$-rectifiable if it is absolutely continuous with respect to $n$-dimensional Hausdorff measure and $\mu$-almost all of supp$μ$ can be covered by Lipschitz images of $\mathbb{R}^n$⁠. In this paper, we give a necessary condition for rectifiability in terms of the so-called $\alpha_2$ numbers — coefficients quantifying flatness using Wasserstein distance $W_2$⁠. In a recent article, we showed that the same condition is also sufficient for rectifiability, and so we get a new characterization of rectifiable measures."
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
@@ -37,6 +37,7 @@ featured: false
 # - name: "arXiv:2011.12717"
 #   url: https://arxiv.org/abs/2011.12717
 
+url_article: 'https://academic.oup.com/imrn/article/2020/22/8936/5766436?guestAccessKey=25f67e5f-3895-4628-88e9-65ccf04bbf90'
 url_pdf: ''
 url_code: ''
 url_dataset: ''
