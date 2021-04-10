@@ -43,7 +43,7 @@ main_menu:
 
 date_format: '02 Jan 2006'
 time_format: '15:04'
-address_format: fi-fi
+address_format: fi
 
 # Site features
 
