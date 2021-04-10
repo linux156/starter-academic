@@ -20,7 +20,24 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: damian.m.dabrowski@jyu.fi
+email: <!-- Begin Email Cloaking -->
+<script language='javascript' type='text/javascript'><!--
+//
+// Anti-Spam Email Cloaking 3.0 by David Tulga
+// http://www.davidtulga.com/antispamemail.htm
+//
+x = '&#64;';
+eml = '&#100;&#97;&#109;&#105;&#97;&#110;&#46;&#109;&#46;&#100;&#97;&#98;&#114;&#111;&#119;&#115;&#107;&#105;' + x + '&#106;&#121;&#117;&#46;&#102;&#105;';
+msg = '&#100;&#97;&#109;&#105;&#97;&#110;&#46;&#109;&#46;&#100;&#97;&#98;&#114;&#111;&#119;&#115;&#107;&#105;&#32;&#40;&#97;&#116;&#41;&#32;&#106;&#121;&#117;&#46;&#102;&#105;';
+out = '<a class="cloak_eml" href="mailto:' + eml + '">' + msg + '</a>';
+document.write(out);
+// -->
+</script>
+<noscript>
+<!-- This message is displayed if the browser has javascript disabled. -->
+&#100;&#97;&#109;&#105;&#97;&#110;&#46;&#109;&#46;&#100;&#97;&#98;&#114;&#111;&#119;&#115;&#107;&#105;&#32;&#40;&#97;&#116;&#41;&#32;&#106;&#121;&#117;&#46;&#102;&#105; [ &#100;&#97;&#109;&#105;&#97;&#110;&#46;&#109;&#46;&#100;&#97;&#98;&#114;&#111;&#119;&#115;&#107;&#105; (at) &#106;&#121;&#117;&#46;&#102;&#105; ] 
+</noscript>
+<!-- End Email Cloaking -->
 address:
   street: P.O. Box 35 (MaD)
   city: University of Jyväskylä
