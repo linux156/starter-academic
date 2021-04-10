@@ -38,7 +38,7 @@ featured: false
 #   url: https://arxiv.org/abs/2011.12717
 
 name: "Article"
-url: "https://academic.oup.com/imrn/article/2020/22/8936/5766436?guestAccessKey=25f67e5f-3895-4628-88e9-65ccf04bbf90"
+url: "academic.oup.com/imrn/article/2020/22/8936/5766436?guestAccessKey=25f67e5f-3895-4628-88e9-65ccf04bbf90"
 
 url_pdf: ''
 url_code: ''
