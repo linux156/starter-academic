@@ -14,7 +14,7 @@ organizations:
   url: https://www.jyu.fi/en/frontpage
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include geometric measure theory and harmonic analysis.
 
 # Interests to show in About widget
 interests:
@@ -45,9 +45,12 @@ social:
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-4495-6090
 # - icon: github
 # icon_pack: fab
 #  link: https://github.com/gcushen
