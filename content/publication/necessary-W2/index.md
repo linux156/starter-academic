@@ -8,7 +8,7 @@ authors:
 - admin
 
 date: "2020-05-25T00:00:00Z"
-doi: "10.1093/imrn/rnaa012"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -34,12 +34,12 @@ featured: false
 
 # Custom links (uncomment lines below)
 # links:
-# - name: "arXiv:2011.12717"
-#   url: https://arxiv.org/abs/2011.12717
 
 links:
 - name: "Article"
   url: "http://academic.oup.com/imrn/article/2020/22/8936/5766436?guestAccessKey=25f67e5f-3895-4628-88e9-65ccf04bbf90"
+- name: "arXiv"
+  url: "https://arxiv.org/abs/1904.11000v2"
 
 url_pdf: ''
 url_code: ''
@@ -73,13 +73,3 @@ url_preprint: ''
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
