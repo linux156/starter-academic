@@ -33,9 +33,9 @@ tags: []
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: "arXiv:2011.12717"
-#   url: https://arxiv.org/abs/2011.12717
+links:
+- name: "arXiv"
+  url: "https://arxiv.org/abs/2011.12717"
 
 url_pdf: ''
 url_code: ''
@@ -45,7 +45,7 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-url_preprint: 'https://arxiv.org/abs/2011.12717'
+url_preprint: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
