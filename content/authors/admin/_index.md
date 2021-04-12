@@ -6,7 +6,7 @@ title: Damian Dąbrowski
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral researcher
+role: Postdoc in mathematics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -72,7 +72,7 @@ email: ""
 highlight_name: false
 ---
 
-I am a postdoctoral researcher at the Department of Mathematics and Statistics at the University of Jyväskylä. I am mostly interested in geometric measure theory, as well as its applications to harmonic analysis and PDEs. I work in the group of [Tuomas Orponen](https://sites.google.com/view/tuomaths/) and [Katrin Fässler](https://kfaessler.wixsite.com/math/).
+I am a postdoctoral researcher at the Department of Mathematics and Statistics at the University of Jyväskylä. I am mostly interested in geometric measure theory, as well as its applications to harmonic analysis and PDEs. I work in the [Geometric Measure Theory and Harmonic Analysis group](https://www.jyu.fi/science/en/maths/research/geometric-measure-theory), led by [Tuomas Orponen](https://sites.google.com/view/tuomaths/) and [Katrin Fässler](https://kfaessler.wixsite.com/math/).
 
 I defended my PhD in February 2021 at the Universitat Autònoma de Barcelona, where I worked under supervision of [Xavier Tolsa](http://mat.uab.es/~xtolsa/).
 
