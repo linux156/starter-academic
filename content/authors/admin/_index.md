@@ -47,7 +47,7 @@ social:
 #  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?user=yI0f0AEAAAAJ
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-4495-6090
@@ -72,8 +72,8 @@ email: ""
 highlight_name: false
 ---
 
-I am a postdoc at the Department of Mathematics and Statistics at the University of Jyväskylä. I am mostly interested in geometric measure theory, as well as its applications to harmonic analysis and PDEs. I work in the group of Tuomas Orponen and Katrin Fässler.
+I am a postdoctoral researcher at the Department of Mathematics and Statistics at the University of Jyväskylä. I am mostly interested in geometric measure theory, as well as its applications to harmonic analysis and PDEs. I work in the group of [Tuomas Orponen](https://sites.google.com/view/tuomaths/) and [Katrin Fässler](https://kfaessler.wixsite.com/math/).
 
-I defended my PhD in February 2021 at the Universitat Autònoma de Barcelona, where I worked under supervision of Xavier Tolsa.
+I defended my PhD in February 2021 at the Universitat Autònoma de Barcelona, where I worked under supervision of [Xavier Tolsa](http://mat.uab.es/~xtolsa/).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="cv" pack="ai" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
