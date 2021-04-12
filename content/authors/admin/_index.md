@@ -76,4 +76,4 @@ I am a postdoctoral researcher at the Department of Mathematics and Statistics a
 
 I defended my PhD in February 2021 at the Universitat Autònoma de Barcelona, where I worked under supervision of [Xavier Tolsa](http://mat.uab.es/~xtolsa/).
 
-{{< icon name="cv" pack="ai" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Here is my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
