@@ -21,7 +21,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: To appear in Ann. Acad. Sci. Fenn. Math.
-publication_short: To appear in Ann. Acad. Sci. Fenn. Math.
+publication_short: To appear in Ann. Acad. Sci. Fenn. Math
 
 abstract: "In a recent article we introduced and studied conical energies. We used them to prove three results: a characterization of rectifiable measures, a characterization of sets with big pieces of Lipschitz graphs, and a sufficient condition for boundedness of nice singular integral operators. In this note we give two examples related to sharpness of these results. One of them is due to Joyce and Mörters, the other is new and could be of independent interest as an example of a relatively ugly set containing big pieces of Lipschitz graphs."
 # Summary. An optional shortened abstract.
@@ -69,13 +69,3 @@ url_preprint: ''
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
