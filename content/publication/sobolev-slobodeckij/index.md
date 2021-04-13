@@ -34,6 +34,8 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
+- name: "Article"
+  url: "https://mat.uab.cat/pubmat/articles/view_doi/10.5565/PUBLMAT6321907"
 - name: "arXiv"
   url: "https://arxiv.org/abs/1710.00263"
 
