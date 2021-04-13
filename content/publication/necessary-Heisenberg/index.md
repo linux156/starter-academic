@@ -24,7 +24,7 @@ publication_types: ["3"]
 publication: Preprint
 publication_short: Preprint
 
-abstract: "Let $\\mu$ be a Radon measure on the $n$-th Heisenberg group $\\mathbb{H}^n$. In this note we prove that if the $(2n+1)$-dimensional (Heisenberg) Riesz transform on $\\mathbb{H}^n$ is $L^2(\\mu)$-bounded, and if $\\mu(F)=0$ for all Borel sets with $\\dim_H(F)\\leq 2$, then $\mu$ must have $(2n+1)$-polynomial growth. This is the Heisenberg counterpart of a result of Guy David from 1991."
+abstract: "Let $\\mu$ be a Radon measure on the $n$-th Heisenberg group $\\mathbb{H}^n$. In this note we prove that if the $(2n+1)$-dimensional (Heisenberg) Riesz transform on $\\mathbb{H}^n$ is $L^2(\\mu)$-bounded, and if $\\mu(F)=0$ for all Borel sets with $\\dim\_H(F)\\leq 2$, then $\\mu$ must have $(2n+1)$-polynomial growth. This is the Heisenberg counterpart of a result of Guy David from 1991."
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
