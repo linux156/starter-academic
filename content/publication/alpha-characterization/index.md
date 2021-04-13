@@ -5,8 +5,8 @@ title: "An $\\alpha$-number characterization of $L^{p}$ spaces on uniformly rect
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Jonas Azzam
-- admin
+- J. Azzam
+- D. Dąbrowski
 
 date: "2020-09-21T00:00:00Z"
 doi: ""
@@ -24,8 +24,7 @@ publication_types: ["3"]
 publication: Preprint
 publication_short: Preprint
 
-abstract: "	We give a characterization of $L^{p}(\\sigma)$ for uniformly rectifiable measures $\\sigma$ using Tolsa's $\\alpha$-numbers, by showing, for $1<p<\\infty$ and $f\\in L^{p}(\\sigma)$, that $$||f||\\_{L^{p}(\\sigma)}\\sim ||{\\left(\\int_{0}^{\\infty} \\left(\\alpha_{f\\sigma}(x,r)+|f|\\_{x,r}\\alpha_{\\sigma}(x,r)\\right)^2 \\frac{dr}{r} \\right)^{\\frac{1}{2}}||\\_{L^{p}(\\sigma)}.
-$$"
+abstract: "We give a characterization of $L^{p}(\\sigma)$ for uniformly rectifiable measures $\\sigma$ using Tolsa's $\\alpha$-numbers, by showing, for $1<p<\\infty$ and $f\\in L^{p}(\\sigma)$, that $$||f||\\_{L^{p}(\\sigma)}\\sim ||{\\left(\\int_{0}^{\\infty} \\left(\\alpha_{f\\sigma}(x,r)+|f|\\_{x,r}\\alpha_{\\sigma}(x,r)\\right)^2 \\frac{dr}{r} \\right)^{\\frac{1}{2}}\\_{L^{p}(\\sigma)}.$$"
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
