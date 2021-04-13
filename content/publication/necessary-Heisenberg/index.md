@@ -5,8 +5,8 @@ title: "Necessary condition for the $L^2$ boundedness of the Riesz transform on 
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
-- "Michele Villa"
+- D. Dąbrowski
+- "M. Villa"
 
 date: "2020-04-02T00:00:00Z"
 doi: ""
