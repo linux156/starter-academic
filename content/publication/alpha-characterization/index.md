@@ -24,7 +24,7 @@ publication_types: ["3"]
 publication: Preprint
 publication_short: Preprint
 
-abstract: "We give a characterization of $L^{p}(\\sigma)$ for uniformly rectifiable measures $\\sigma$ using Tolsa's $\\alpha$-numbers, by showing, for $1<p<\\infty$ and $f\\in L^{p}(\\sigma)$, that $||f||\\_{L^{p}(\\sigma)}\\sim ||{\\left(\\int_{0}^{\\infty} \\left(\\alpha_{f\\sigma}(x,r)+|f|\\_{x,r}\\alpha_{\\sigma}(x,r)\\right)^2 \\frac{dr}{r} \\right)^{\\frac{1}{2}}\\_{L^{p}(\\sigma)}.$"
+abstract: "We give a characterization of $L^{p}(\\sigma)$ for uniformly rectifiable measures $\\sigma$ using Tolsa's $\\alpha$-numbers, by showing, for $1<p<\\infty$ and $f\\in L^{p}(\\sigma)$, that $||f||\\_{L^{p}(\\sigma)}\\sim ||\\left(\\int_{0}^{\\infty} \\left(\\alpha_{f\\sigma}(x,r)+|f|\\_{x,r}\\alpha_{\\sigma}(x,r)\\right)^2 \\frac{dr}{r} \\right)||^{\\frac{1}{2}}\\_{L^{p}(\\sigma)}.$"
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
