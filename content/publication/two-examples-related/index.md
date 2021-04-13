@@ -5,7 +5,7 @@ title: "Two examples related to conical energies"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
+- D. Dąbrowski
 
 date: "2020-11-25T00:00:00Z"
 doi: ""
