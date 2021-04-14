@@ -21,7 +21,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: Publ. Mat. 63 (2019), no. 2, 663–677.
-publication_short: Publ. Mat
+publication_short: Publ. Mat. 63, no. 2, 663–677
 
 abstract: "We give a new characterization of Sobolev-Slobodeckij spaces $W^{1+s,p}(\\Omega)$ for $p>n$ and $\\frac{n}{p}<s<1$, where $n$ is the dimension of domain $\\Omega$. To achieve this we introduce a family of geometric curvature energies -- functionals on the space of surfaces inspired by the classical concept of integral Menger curvature. We prove that a function belongs to a Sobolev-Slobodeckij space if and only if it is Lipschitz continuous and its graph has finite geometric curvature energy of appropriate type."
 # Summary. An optional shortened abstract.
