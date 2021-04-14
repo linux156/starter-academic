@@ -21,7 +21,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: Int. Math. Res. Not. IMRN 2020(2020), no. 22, 8936–8972
-publication_short: Int. Math. Res. Not. IMRN
+publication_short: Int. Math. Res. Not. IMRN 2020, no. 22, 8936–8972
 
 abstract: "A Radon measure $\\mu$ is $n$-rectifiable if it is absolutely continuous with respect to $n$-dimensional Hausdorff measure and $\\mu$-almost all of supp$\\mu$ can be covered by Lipschitz images of $\\mathbb{R}^n$⁠. In this paper, we give a necessary condition for rectifiability in terms of the so-called $\\alpha_2$ numbers — coefficients quantifying flatness using Wasserstein distance $W_2$⁠. In a recent article, we showed that the same condition is also sufficient for rectifiability, and so we get a new characterization of rectifiable measures."
 # Summary. An optional shortened abstract.
