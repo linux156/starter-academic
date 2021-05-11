@@ -2,7 +2,7 @@
 title: On measures with $L^2$ bounded Riesz transform: to AD regularity and beyond!
 
 event: Jyväskylä Geometric Analysis Seminar
-event_url: https://kfaessler.wixsite.com/math/jyv%C3%A4skyl%C3%A4-geometry-seminar
+event_url: "https://kfaessler.wixsite.com/math/jyv%C3%A4skyl%C3%A4-geometry-seminar"
 
 location: online
 
