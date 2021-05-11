@@ -1,12 +1,12 @@
 ---
 title: On measures with L2 bounded Riesz transform: to AD regularity and beyond!
 
-event: Jyväskylä Geometric Analysis Seminar
-event_url: "https://kfaessler.wixsite.com/math/jyv%C3%A4skyl%C3%A4-geometry-seminar"
+event: Jyvaskyla Geometric Analysis Seminar
+# event_url: "https://kfaessler.wixsite.com/math/jyv%C3%A4skyl%C3%A4-geometry-seminar"
 
 location: online
 
-summary: ""
+summary: Blabla
 abstract: "The measures which define an $L^2$ bounded $n$-dimensional Riesz transform have been intensely studied in the last 50 years. Especially in the case of $n$-AD-regular measures (that is, measures that are quantitatively $n$-dimensional) the situation is very well understood by now. In this talk I will describe how some of the recent advances in the field can be pushed beyond the AD-regular setting. Based on joint work with Xavier Tolsa."
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
