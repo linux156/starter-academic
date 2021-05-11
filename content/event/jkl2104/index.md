@@ -6,8 +6,12 @@ event: Jyvaskyla Geometric Analysis Seminar
 
 location: online
 
-summary: Blabla
-abstract: "The measures which define an $L^2$ bounded $n$-dimensional Riesz transform have been intensely studied in the last 50 years. Especially in the case of $n$-AD-regular measures (that is, measures that are quantitatively $n$-dimensional) the situation is very well understood by now. In this talk I will describe how some of the recent advances in the field can be pushed beyond the AD-regular setting. Based on joint work with Xavier Tolsa."
+
+summary: An example talk using Wowchemy's Markdown slides feature.
+abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+
+# summary: Blabla
+# abstract: "The measures which define an $L^2$ bounded $n$-dimensional Riesz transform have been intensely studied in the last 50 years. Especially in the case of $n$-AD-regular measures (that is, measures that are quantitatively $n$-dimensional) the situation is very well understood by now. In this talk I will describe how some of the recent advances in the field can be pushed beyond the AD-regular setting. Based on joint work with Xavier Tolsa."
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2021-05-03T14:15:00Z"
