@@ -1,5 +1,5 @@
 ---
-title: "On measures with L2 bounded Riesz transform: to AD regularity and beyond!"
+title: "On measures with $L^2$ bounded Riesz transform: to AD regularity and beyond!"
 
 event: Jyvaskyla Geometric Analysis Seminar
 event_url: https://kfaessler.wixsite.com/math/jyv%C3%A4skyl%C3%A4-geometry-seminar
