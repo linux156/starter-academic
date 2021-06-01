@@ -16,9 +16,7 @@ location: University of Edinburgh
 # abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 summary: ""
-abstract: "Let K(x, V, s) be the open cone centred at x, with direction V, and aperture s. It is easy to see that if a set E satisfies for some V and s the condition:
-if x belongs to E, then E has an empty intersection with K(x, V, s),
-then E is a subset of a Lipschitz graph. To what extent can we weaken the condition above and still get meaningful information about the geometry of E? It depends on what we mean by "meaningful information'', of course. For example, one could ask for rectifiability of E, or if E contains big pieces of Lipschitz graphs, or if nice singular integral operators are bounded in L^2(E). In the talk I will discuss these three closely related questions."
+abstract: "Let K(x, V, s) be the open cone centred at x, with direction V, and aperture s. It is easy to see that if a set E satisfies for some V and s the condition:<br/> if x belongs to E, then E has an empty intersection with K(x, V, s),<br/> then E is a subset of a Lipschitz graph. To what extent can we weaken the condition above and still get meaningful information about the geometry of E? It depends on what we mean by ``meaningful information'', of course. For example, one could ask for rectifiability of E, or if E contains big pieces of Lipschitz graphs, or if nice singular integral operators are bounded in L^2(E). In the talk I will discuss these three closely related questions."
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2020-04-03T13:00:00Z"
