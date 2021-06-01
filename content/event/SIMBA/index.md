@@ -1,4 +1,4 @@
----
+﻿---
 title: "On measures, projections, and measures of projections"
 
 event: Seminari Informal de Matemàtiques de Barcelona
@@ -18,7 +18,7 @@ location: Seminari Informal de Matemàtiques de Barcelona
 summary: ""
 abstract: "In this talk we will look at the following question: given a subset of the plane, what is the relation between the size of the set and the size of its orthogonal projections? To make the notion of “size” more precise, I will first explain what the Hausdorff measures and the Hausdorff dimension are. The talk should be accessible to anyone who has completed a basic calculus course."
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-03-24T14:15:00Z"
+date: "2021-03-24T12:15:00Z"
 # date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
@@ -41,7 +41,7 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: ""
+url_pdf: "pdf/SIMBA.pdf"
 url_slides: ""
 url_video: ""
 
