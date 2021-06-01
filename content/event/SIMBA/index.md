@@ -4,7 +4,7 @@ title: "On measures, projections, and measures of projections"
 event: Seminari Informal de Matemàtiques de Barcelona
 event_url: http://www.ub.edu/simba/en/
 
-location: Seminari Informal de Matemàtiques de Barcelona
+location: Universitat de Barcelona
 # address:
 # street: 450 Serra Mall
 # city: Stanford

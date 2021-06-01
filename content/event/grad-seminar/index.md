@@ -1,10 +1,10 @@
 ﻿---
-title: "On measures with $L^2$ bounded Riesz transform: to AD regularity and beyond!"
+title: "Cones, rectifiability, and SIOs"
 
-event: Jyväskylä Geometric Analysis Seminar
-event_url: https://kfaessler.wixsite.com/math/jyv%C3%A4skyl%C3%A4-geometry-seminar
+event: Analysis and PDE Working Summer Seminar
+event_url: https://sites.google.com/view/summerseminar
 
-location: University of Jyväskylä
+location: University of Minnesota
 # address:
 # street: 450 Serra Mall
 # city: Stanford
@@ -16,10 +16,12 @@ location: University of Jyväskylä
 # abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 summary: ""
-abstract: "The measures which define an $L^2$ bounded $n$-dimensional Riesz transform have been intensely studied in the last 50 years. Especially in the case of $n$-AD-regular measures (that is, measures that are quantitatively $n$-dimensional) the situation is very well understood by now. In this talk I will describe how some of the recent advances in the field can be pushed beyond the AD-regular setting. Based on joint work with Xavier Tolsa."
+abstract: "Let K(x, V, s) be the open cone centred at x, with direction V, and aperture s. It is easy to see that if a set E satisfies for some V and s the condition:
+if x belongs to E, then E has an empty intersection with K(x, V, s),
+then E is a subset of a Lipschitz graph. To what extent can we weaken the condition above and still get meaningful information about the geometry of E? It depends on what we mean by "meaningful information'', of course. For example, one could ask for rectifiability of E, or if E contains big pieces of Lipschitz graphs, or if nice singular integral operators are bounded in L^2(E). In the talk I will discuss these three closely related questions."
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-05-03T14:15:00Z"
+date: "2020-06-15T18:00:00Z"
 # date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
@@ -43,8 +45,8 @@ links:
 #  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: "pdf/Jones-Wolff.pdf"
-url_video: ""
+url_slides: "pdf/cones-handout.pdf"
+url_video: "https://sites.google.com/view/summerseminar#h.glicd5b0ja3l"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
