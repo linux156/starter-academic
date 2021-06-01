@@ -1,4 +1,4 @@
----
+﻿---
 title: "Cones, rectifiability, and singular integral operators"
 
 # Authors
@@ -20,8 +20,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: Preprint
-publication_short: Preprint
+publication: To appear in Rev. Mat. Iberoam.
+publication_short: To appear in Rev. Mat. Iberoam.
 
 abstract: "Let $\\mu$ be a Radon measure on $\\mathbb{R}^d$. We define and study conical energies $\\mathcal{E}(x,V,\\alpha)$, which quantify the portion of $\\mu$ lying in the cone with vertex $x\\in\\mathbb{R}^d$, direction $V\\in G(d,d-n)$, and aperture $\\alpha\\in (0,1)$. We use these energies to characterize rectifiability and the big pieces of Lipschitz graphs property. Furthermore, if we assume that $\\mu$ has polynomial growth, we give a sufficient condition for $L^2(\\mu)$-boundedness of singular integral operators with smooth odd kernels of convolution type."
 # Summary. An optional shortened abstract.
