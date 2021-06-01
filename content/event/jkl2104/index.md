@@ -1,4 +1,4 @@
----
+﻿---
 title: "On measures with $L^2$ bounded Riesz transform: to AD regularity and beyond!"
 
 event: Jyväskylä Geometric Analysis Seminar
@@ -42,7 +42,7 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: ""
+url_pdf: "pdf/Jones-Wolff.pdf"
 url_slides: ""
 url_video: ""
 
