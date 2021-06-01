@@ -41,8 +41,8 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: "pdf/SIMBA.pdf"
-url_slides: ""
+url_pdf: ""
+url_slides: "pdf/SIMBA.pdf"
 url_video: ""
 
 # Markdown Slides (optional).
