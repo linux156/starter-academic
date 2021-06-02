@@ -1,4 +1,4 @@
----
+﻿---
 # Display name
 title: Damian Dąbrowski
 
@@ -63,7 +63,7 @@ social:
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: media/resume.pdf
+#   link: media/CV_06_2021.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -76,4 +76,4 @@ I am a postdoctoral researcher at the Department of Mathematics and Statistics a
 
 I defended my PhD in February 2021 at the Universitat Autònoma de Barcelona, where I worked under supervision of [Xavier Tolsa](http://mat.uab.es/~xtolsa/).
 
-Here is my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+Here is my {{< staticref "media/CV_06_2021.pdf" "newtab" >}}CV{{< /staticref >}}.
