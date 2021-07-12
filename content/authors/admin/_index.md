@@ -63,7 +63,7 @@ social:
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: media/CV_06_2021.pdf
+#   link: media/CV_07_2021.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
