@@ -18,8 +18,10 @@ bio: My research interests include geometric measure theory and harmonic analysi
 
 # Interests to show in About widget
 interests:
-- geometric measure theory
-- harmonic analysis
+- quantitative rectifiability
+- singular integral operators in non-doubling setting
+- behaviour of measures under orthogonal projections
+- Furstenberg sets
 
 # Education to show in About widget
 education:
