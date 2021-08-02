@@ -1,4 +1,4 @@
----
+﻿---
 title: "Sufficient condition for rectifiability involving Wasserstein distance $W_2$"
 
 # Authors
@@ -20,8 +20,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: To appear in J. Geom. Anal.
-publication_short: To appear in J. Geom. Anal
+publication: J. Geom. Anal. 31, 8539–8606
+publication_short: J. Geom. Anal. 31, 8539–8606
 
 abstract: "A Radon measure $\\mu$ is $n$-rectifiable if it is absolutely continuous with respect to $\\mathcal{H}^n$ and $\\mu$-almost all of supp$\\mu$ can be covered by Lipschitz images of $\\mathbb{R}^n$. In this paper we give two sufficient conditions for rectifiability, both in terms of square functions of flatness-quantifying coefficients. The first condition involves the so-called $\\alpha$ and $\\beta_2$ numbers. The second one involves $\\alpha_2$ numbers -- coefficients quantifying flatness via Wasserstein distance $W_2$. Both conditions are necessary for rectifiability, too -- the first one was shown to be necessary by Tolsa, while the necessity of the $\\alpha_2$ condition is established in our recent paper. Thus, we get two new characterizations of rectifiability."
 # Summary. An optional shortened abstract.
