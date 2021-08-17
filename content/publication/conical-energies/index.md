@@ -34,6 +34,8 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
+- name: "Article"
+  url: "https://doi.org/10.4171/rmi/1301"
 - name: "arXiv"
   url: "https://arxiv.org/abs/2006.14432"
 
