@@ -19,7 +19,7 @@ summary: ""
 abstract: "In this talk I am going to describe recent progress made on Vitushkin's conjecture: if $E$ has plenty of big projections, then $E$ is non-removable for bounded analytic functions. Based on ongoing work with Michele Villa."
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-01-05T10:30:00Z"
+date: "2022-01-05T10:30:00Z"
 # date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
