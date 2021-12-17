@@ -16,14 +16,10 @@ location: Tampere University
 # abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 summary: ""
-abstract: "We say that a compact set $E\subset\mathbb{C}$ is removable for bounded analytic functions if for any open set $U\supset E$ all bounded analytic functions $f:U\setminus E\to\mathbb{C}$ admit an analytic extension to $U$. In the 60s Vitushkin conjectured that a set is removable if and only if it has negligible projections (i.e., almost every projection of $E$ has zero length). 
-
-In the case of sets with $\sigma$-finite length Vitushkin's conjecture has been shown to be true by G. David in 1998. On the other hand, the conjecture fails for $1$-dimensional sets with non-$\sigma$-finite length: in 1988 P. Jones and T. Murai constructed a set with negligible projections which is non-removable for bounded analytic functions. 
-
-In other words, one of the implications comprising Vitushkin's conjecture is false. It is still unknown whether the other implication is true. Suppose that $E$ has non-negligible projections; does this imply that $E$ is non-removable for bounded analytic functions? In this talk I am going to describe recent progress made on this question: if $E$ has plenty of big projections, then $E$ is non-removable for bounded analytic functions. Based on ongoing work with Michele Villa."
+abstract: "We say that a compact set $E\subset\mathbb{C}$ is removable for bounded analytic functions if for any open set $U\supset E$ all bounded analytic functions $f:U\setminus E\to\mathbb{C}$ admit an analytic extension to $U$. In the 60s Vitushkin conjectured that a set is removable if and only if it has negligible projections (i.e., almost every projection of $E$ has zero length). In the case of sets with $\sigma$-finite length Vitushkin's conjecture has been shown to be true by G. David in 1998. On the other hand, the conjecture fails for $1$-dimensional sets with non-$\sigma$-finite length: in 1988 P. Jones and T. Murai constructed a set with negligible projections which is non-removable for bounded analytic functions. In other words, one of the implications comprising Vitushkin's conjecture is false. It is still unknown whether the other implication is true. Suppose that $E$ has non-negligible projections; does this imply that $E$ is non-removable for bounded analytic functions? In this talk I am going to describe recent progress made on this question: if $E$ has plenty of big projections, then $E$ is non-removable for bounded analytic functions. Based on ongoing work with Michele Villa."
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-10-20T10:30:00Z"
+date: "2021-01-05T10:30:00Z"
 # date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
@@ -47,8 +43,8 @@ links:
 #  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: "pdf/Jones-Wolff - Warsaw 2021.pdf"
-url_video: "video/prezentacja IMPAN 2021.mp4"
+url_slides: ""
+url_video: ""
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
