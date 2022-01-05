@@ -7,7 +7,7 @@ title: "Two examples related to conical energies"
 authors:
 - D. Dąbrowski
 
-date: "2020-11-25T00:00:00Z"
+date: "2022-01-04T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,11 +17,11 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: To appear in Ann. Acad. Sci. Fenn. Math.
-publication_short: To appear in Ann. Acad. Sci. Fenn. Math
+publication: Ann. Fenn. Math.
+publication_short: Ann. Fenn. Math
 
 abstract: "In a recent article we introduced and studied conical energies. We used them to prove three results: a characterization of rectifiable measures, a characterization of sets with big pieces of Lipschitz graphs, and a sufficient condition for boundedness of nice singular integral operators. In this note we give two examples related to sharpness of these results. One of them is due to Joyce and Mörters, the other is new and could be of independent interest as an example of a relatively ugly set containing big pieces of Lipschitz graphs."
 # Summary. An optional shortened abstract.
@@ -34,6 +34,8 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
+- name: "Article"
+  url: "https://afm.journal.fi/article/view/113378"
 - name: "arXiv"
   url: "https://arxiv.org/abs/2011.12717"
 
