@@ -34,6 +34,8 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
+- name: "Article"
+  url: "https://afm.journal.fi/article/view/113378"
 - name: "arXiv"
   url: "https://arxiv.org/abs/2011.12717"
 - name: "Article"
