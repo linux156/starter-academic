@@ -26,7 +26,7 @@ publication_types: ["3"]
 publication: Preprint
 publication_short: Preprint
 
-abstract: "Let $E \\subset B(1) \\subset \\mathbb{R}^{2}$ be an $\\mathcal{H}^{1}$ measurable set with $\\mathcal{H}^{1}(E) < \\infty$, and let $L \\subset \\mathbb{R}^{2}$ be a line segment with $\\mathcal{H}^{1}(L) = \\mathcal{H}^{1}(E)$. It is not hard to see that $\\mathrm{Fav}(E) \leq \\mathrm{Fav}(L)$. We prove that in the case of near equality, that is, $$ \\mathrm{Fav}(E) \\geq \\mathrm{Fav}(L) - \\delta, $$ the set $E$ can be covered by an $\\epsilon$-Lipschitz graph, up to a set of length $\\epsilon$. The dependence between $\\epsilon$ and $\\delta$ is polynomial: in fact, the conclusions hold with $\\epsilon = C\\delta^{1/70}$ for an absolute constant $C > 0$."
+abstract: "Let $E \\subset B(1) \\subset \\mathbb{R}^{2}$ be an $\\mathcal{H}^{1}$ measurable set with $\\mathcal{H}^{1}(E) < \\infty$, and let $L \\subset \\mathbb{R}^{2}$ be a line segment with $\\mathcal{H}^{1}(L) = \\mathcal{H}^{1}(E)$. It is not hard to see that $\\mathrm{Fav}(E) \\leq \\mathrm{Fav}(L)$. We prove that in the case of near equality, that is, $$ \\mathrm{Fav}(E) \\geq \\mathrm{Fav}(L) - \\delta, $$ the set $E$ can be covered by an $\\epsilon$-Lipschitz graph, up to a set of length $\\epsilon$. The dependence between $\\epsilon$ and $\\delta$ is polynomial: in fact, the conclusions hold with $\\epsilon = C\\delta^{1/70}$ for an absolute constant $C > 0$."
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
