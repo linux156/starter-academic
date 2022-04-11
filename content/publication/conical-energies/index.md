@@ -7,7 +7,7 @@ title: "Cones, rectifiability, and singular integral operators"
 authors:
 - D. Dąbrowski
 
-date: "2020-06-25T00:00:00Z"
+date: "2021-06-25T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
