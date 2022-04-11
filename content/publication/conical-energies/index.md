@@ -17,11 +17,11 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: To appear in Rev. Mat. Iberoam.
-publication_short: To appear in Rev. Mat. Iberoam
+publication: Appeared online in Rev. Mat. Iberoam.
+publication_short: Appeared online in Rev. Mat. Iberoam
 
 abstract: "Let $\\mu$ be a Radon measure on $\\mathbb{R}^d$. We define and study conical energies $\\mathcal{E}(x,V,\\alpha)$, which quantify the portion of $\\mu$ lying in the cone with vertex $x\\in\\mathbb{R}^d$, direction $V\\in G(d,d-n)$, and aperture $\\alpha\\in (0,1)$. We use these energies to characterize rectifiability and the big pieces of Lipschitz graphs property. Furthermore, if we assume that $\\mu$ has polynomial growth, we give a sufficient condition for $L^2(\\mu)$-boundedness of singular integral operators with smooth odd kernels of convolution type."
 # Summary. An optional shortened abstract.
