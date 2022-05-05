@@ -1,4 +1,4 @@
----
+﻿---
 title: "An $\\alpha$-number characterization of $L^{p}$ spaces on uniformly rectifiable sets"
 
 # Authors
@@ -18,11 +18,11 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Preprint
-publication_short: Preprint
+publication: To appear in Publ. Mat.
+publication_short: To appear in Publ. Mat
 
 abstract: "We give a characterization of $L^{p}(\\sigma)$ for uniformly rectifiable measures $\\sigma$ using Tolsa's $\\alpha$-numbers, by showing, for $1<p<\\infty$ and $f\\in L^{p}(\\sigma)$, that $$||f||\\_{L^{p}(\\sigma)}\\sim ||\\left(\\int_{0}^{\\infty} \\left(\\alpha_{f\\sigma}(x,r)+|f|\\_{x,r}\\alpha_{\\sigma}(x,r)\\right)^2 \\frac{dr}{r} \\right)||^{\\frac{1}{2}}\\_{L^{p}(\\sigma)}.$$"
 # Summary. An optional shortened abstract.
