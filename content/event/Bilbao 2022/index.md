@@ -4,7 +4,7 @@ title: "Vitushkin’s conjecture and sets with plenty of big projections"
 event: Bilbao Analysis and PDE
 event_url: https://sites.google.com/view/apdebilbao
 
-location: Basque Center for Applied Mathematics (Bilbao)
+location: UPV/EHU (Bilbao)
 # address:
 # street: 450 Serra Mall
 # city: Stanford
