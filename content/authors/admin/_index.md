@@ -74,8 +74,8 @@ email: ""
 highlight_name: false
 ---
 
-I am a postdoctoral researcher at the Department of Mathematics and Statistics at the University of Jyväskylä. I am mostly interested in geometric measure theory, as well as its applications to harmonic analysis and PDEs. I work in the [Geometric Measure Theory and Harmonic Analysis group](https://www.jyu.fi/science/en/maths/research/geometric-measure-theory), led by [Tuomas Orponen](https://sites.google.com/view/tuomaths/) and [Katrin Fässler](https://kfaessler.wixsite.com/math/).
+I am a postdoctoral researcher at the Department of Mathematics and Statistics at the University of Jyväskylä. I am mostly interested in geometric measure theory, as well as its applications to harmonic analysis and PDEs. I work in the [Geometric Measure Theory group](https://www.jyu.fi/science/en/maths/research/geometric-measure-theory), led by [Katrin Fässler](https://kfaessler.wixsite.com/math/) and [Tuomas Orponen](https://sites.google.com/view/tuomaths/).
 
 I defended my PhD in February 2021 at the Universitat Autònoma de Barcelona, where I worked under supervision of [Xavier Tolsa](http://mat.uab.es/~xtolsa/).
 
-Here is my {{< staticref "media/CV_02_2022.pdf" "newtab" >}}CV{{< /staticref >}}.
+Here is my {{< staticref "media/CV_06_2022.pdf" "newtab" >}}CV{{< /staticref >}}.
