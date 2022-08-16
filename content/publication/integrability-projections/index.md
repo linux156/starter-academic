@@ -9,7 +9,7 @@ authors:
 - T. Orponen
 - M. Villa
 
-date: "2021-07-09T00:00:00Z"
+date: "2022-10-08T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -22,8 +22,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: To appear in Adv. Math.
-publication_short: To appear in Adv. Math
+publication: Adv. Math. 407, 108567.
+publication_short: Adv. Math. 407, 108567
 
 abstract: "Let $\\mathcal{G}(d,n)$ be the Grassmannian manifold of $n$-dimensional subspaces of $\\mathbb{R}^{d}$, and let $\\pi_{V} \\colon \\mathbb{R}^{d} \\to V$ be the orthogonal projection. We prove that if $\\mu$ is a compactly supported Radon measure on $\\mathbb{R}^{d}$ satisfying the $s$-dimensional Frostman condition $\\mu(B(x,r)) \\leq Cr^{s}$ for all $x \\in \\mathbb{R}^{d}$ and $r > 0$, then $$\\int_{\\mathcal{G}(d,n)} \\|\\pi_{V}\\mu\\|_{L^{p}(V)}^{p} \\, d\\gamma_{d,n}(V) < \\infty, \\qquad 1 \\leq p < \\frac{2d - n - s}{d - s}.$$ The upper bound for $p$ is sharp, at least, for $d - 1 \\leq s \\leq d$, and every $0 < n < d$. Our motivation for this question comes from finding improved lower bounds on the Hausdorff dimension of $(s,t)$-Furstenberg sets. For $0 \\leq s \\leq 1$ and $0 \\leq t \\leq 2$, a set $K \\subset \\mathbb{R}^{2}$ is called an $(s,t)$-Furstenberg set if there exists a $t$-dimensional family $\\mathcal{L}$ of affine lines in $\\mathbb{R}^{2}$ such that $\\dim_{\\mathrm{H}} (K \\cap \\ell) \\geq s$ for all $\\ell \\in \\mathcal{L}$. As a consequence of our projection theorem in $\\mathbb{R}^{2}$, we show that every $(s,t)$-Furstenberg set $K \\subset \\mathbb{R}^{2}$ with $1 < t \\leq 2$ satisfies $$\\dim_{\\mathrm{H}} K \\geq 2s + (1 - s)(t - 1).$$ This improves on previous bounds for pairs $(s,t)$ with $s > \\tfrac{1}{2}$ and $t \\geq 1 + \\epsilon$ for a small absolute constant $\\epsilon > 0$. We also prove an analogue of this estimate for $(d - 1,s,t)$-Furstenberg sets in $\\mathbb{R}^{d}$."
 # Summary. An optional shortened abstract.
@@ -36,6 +36,8 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
+- name: "Article"
+  url: "https://doi.org/10.1016/j.aim.2022.108567"
 - name: "arXiv"
   url: "https://arxiv.org/abs/2107.04471"
 
