@@ -1,10 +1,10 @@
 ﻿---
 title: "From orthogonal projections to Furstenberg sets"
 
-event: Seminari d'Anàlisi de Barcelona
-event_url: https://sites.google.com/view/apdebilbao
+event: Fractals and Related Fields IV
+event_url: https://farf4.math.cnrs.fr/
 
-location: Centre de Recerca Matemàtica (Barcelona)
+location: Porquerolles
 # address:
 # street: 450 Serra Mall
 # city: Stanford
