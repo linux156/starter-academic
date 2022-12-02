@@ -5,7 +5,7 @@ title: "Quantitative Besicovitch projection theorem for irregular sets of direct
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
+- D. Dąbrowski
 
 date: "2022-11-30T00:00:00Z"
 doi: ""
