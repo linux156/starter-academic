@@ -20,11 +20,11 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Preprint
-publication_short: Preprint
+publication: To appear in Anal. PDE.
+publication_short: To appear in Anal. PDE
 
 abstract: "Let $E \\subset B(1) \\subset \\mathbb{R}^{2}$ be an $\\mathcal{H}^{1}$ measurable set with $\\mathcal{H}^{1}(E) < \\infty$, and let $L \\subset \\mathbb{R}^{2}$ be a line segment with $\\mathcal{H}^{1}(L) = \\mathcal{H}^{1}(E)$. It is not hard to see that $\\mathrm{Fav}(E) \\leq \\mathrm{Fav}(L)$. We prove that in the case of near equality, that is, $$ \\mathrm{Fav}(E) \\geq \\mathrm{Fav}(L) - \\delta, $$ the set $E$ can be covered by an $\\epsilon$-Lipschitz graph, up to a set of length $\\epsilon$. The dependence between $\\epsilon$ and $\\delta$ is polynomial: in fact, the conclusions hold with $\\epsilon = C\\delta^{1/70}$ for an absolute constant $C > 0$."
 # Summary. An optional shortened abstract.
