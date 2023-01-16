@@ -19,7 +19,7 @@ summary: ""
 abstract: "In this talk I will describe recent progress made on Vitushkin’s conjecture, an old problem lying at the intersection of geometric measure theory, harmonic analysis, and complex analysis. Based on joint work with Michele Villa."
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-01-23T14:00:00Z"
+date: "2023-01-23T14:00:00Z"
 # date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
