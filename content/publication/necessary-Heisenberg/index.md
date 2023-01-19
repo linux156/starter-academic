@@ -8,7 +8,7 @@ authors:
 - D. Dąbrowski
 - "M. Villa"
 
-date: "2020-04-02T00:00:00Z"
+date: "2022-01-19T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,11 +18,11 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Preprint
-publication_short: Preprint
+publication: To appear in Math. Proc. Cambridge Philos. Soc.
+publication_short: To appear in Math. Proc. Cambridge Philos. Soc
 
 abstract: "Let $\\mu$ be a Radon measure on the $n$-th Heisenberg group $\\mathbb{H}^n$. In this note we prove that if the $(2n+1)$-dimensional (Heisenberg) Riesz transform on $\\mathbb{H}^n$ is $L^2(\\mu)$-bounded, and if $\\mu(F)=0$ for all Borel sets with $\\dim\\_{H}(F)\\leq 2$, then $\\mu$ must have $(2n+1)$-polynomial growth. This is the Heisenberg counterpart of a result of Guy David from 1991."
 # Summary. An optional shortened abstract.
