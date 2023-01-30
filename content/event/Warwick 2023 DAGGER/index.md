@@ -42,7 +42,7 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
-url_slides: ""
+url_slides: "pdf/Dabrowski-talk-DAGGER.pdf"
 url_video: ""
 
 # Markdown Slides (optional).
