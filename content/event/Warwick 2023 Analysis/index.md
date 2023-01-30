@@ -47,7 +47,7 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
-url_slides: ""
+url_slides: "pdf/Dabrowski-talk-Warwick.pdf"
 url_video: ""
 
 # Markdown Slides (optional).
