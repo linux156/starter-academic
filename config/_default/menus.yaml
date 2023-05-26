@@ -17,8 +17,13 @@ main:
     url: '#talks'
     weight: 50
   - name: Teaching
+    identifier: teaching
     url: '/teaching'
     weight: 55
+  - name: Topics in Harmonic Analysis
+    parent: teaching
+    url: '/teaching/sios-2023/'
+    weight: 10
   - name: Contact
     url: '#contact'
     weight: 60
