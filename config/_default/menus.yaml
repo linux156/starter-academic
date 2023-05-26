@@ -17,13 +17,9 @@ main:
     url: '#talks'
     weight: 50
   - name: Teaching
-    identifier: teaching
+#    identifier: teaching
     url: '/teaching'
     weight: 55
-  - name: Topics in Harmonic Analysis
-    parent: teaching
-    url: '/teaching/sios-2023/'
-    weight: 10
   - name: Contact
     url: '#contact'
     weight: 60
@@ -32,4 +28,7 @@ main:
     weight: 70
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-
+#  - name: Topics in Harmonic Analysis
+#    parent: teaching
+#    url: '/teaching/sios-2023/'
+#    weight: 10
