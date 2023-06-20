@@ -35,10 +35,10 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: "arXiv"
-  url: "https://arxiv.org/abs/2009.10111"
 - name: "Article"
   url: "https://mat.uab.cat/pubmat/fitxers/download/FileType:pdf/FolderName:v67%282%29/FileName:6722313.pdf"
+- name: "arXiv"
+  url: "https://arxiv.org/abs/2009.10111"
 url_pdf: ''
 url_code: ''
 url_dataset: ''
