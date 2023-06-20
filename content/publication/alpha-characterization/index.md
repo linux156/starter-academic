@@ -8,7 +8,7 @@ authors:
 - J. Azzam
 - D. Dąbrowski
 
-date: "2020-09-21T00:00:00Z"
+date: "2023-06-20T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -21,8 +21,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: To appear in Publ. Mat.
-publication_short: To appear in Publ. Mat
+publication: Publ. Mat. 67, no. 2, 819–850.
+publication_short: Publ. Mat. 67, no. 2, 819–850
 
 abstract: "We give a characterization of $L^{p}(\\sigma)$ for uniformly rectifiable measures $\\sigma$ using Tolsa's $\\alpha$-numbers, by showing, for $1<p<\\infty$ and $f\\in L^{p}(\\sigma)$, that $$||f||\\_{L^{p}(\\sigma)}\\sim ||\\left(\\int_{0}^{\\infty} \\left(\\alpha_{f\\sigma}(x,r)+|f|\\_{x,r}\\alpha_{\\sigma}(x,r)\\right)^2 \\frac{dr}{r} \\right)||^{\\frac{1}{2}}\\_{L^{p}(\\sigma)}.$$"
 # Summary. An optional shortened abstract.
@@ -37,7 +37,8 @@ featured: false
 links:
 - name: "arXiv"
   url: "https://arxiv.org/abs/2009.10111"
-
+- name: "Article"
+  url: "https://mat.uab.cat/pubmat/fitxers/download/FileType:pdf/FolderName:v67%282%29/FileName:6722313.pdf"
 url_pdf: ''
 url_code: ''
 url_dataset: ''
