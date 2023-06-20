@@ -36,7 +36,7 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: "Article"
-  url: "https://mat.uab.cat/pubmat/fitxers/download/FileType:pdf/FolderName:v67%282%29/FileName:6722313.pdf"
+  url: "https://mat.uab.cat/pubmat/articles/view_doi/10.5565/PUBLMAT6722313"
 - name: "arXiv"
   url: "https://arxiv.org/abs/2009.10111"
 url_pdf: ''
