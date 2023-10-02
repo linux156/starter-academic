@@ -1,10 +1,10 @@
 ﻿---
-title: "Vitushkin’s conjecture and sets with plenty of big projections"
+title: "Quantifying Besicovitch projection theorem"
 
 event: Seminari d'Anàlisi de Barcelona
 event_url: https://mat.uab.cat/web/seminarianalisi/
 
-location: Centre de Recerca Matemàtica (Barcelona)
+location: Universitat Autònoma de Barcelona
 # address:
 # street: 450 Serra Mall
 # city: Stanford
@@ -16,10 +16,15 @@ location: Centre de Recerca Matemàtica (Barcelona)
 # abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 summary: ""
-abstract: "In this talk I am going to describe recent progress made on Vitushkin's conjecture: if $E$ has plenty of big projections, then $E$ is non-removable for bounded analytic functions. Based on joint work with Michele Villa."
+abstract: "Besicovitch projection theorem is one of the fundamental
+results of geometric measure theory, and it states that a set of finite
+length is purely unrectifiable (i.e., its intersection with every
+rectifiable curve has length 0) if and only if almost every orthogonal
+projection of this set has length 0. In this talk I will present recent
+attempts at quantifying this result."
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-06-06T15:00:00Z"
+date: "2023-07-04T13:30:00Z"
 # date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
@@ -42,7 +47,7 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
-url_slides: "pdf/Dabrowski-talk-Barcelona.pdf"
+url_slides: ""
 url_video: ""
 
 # Markdown Slides (optional).
