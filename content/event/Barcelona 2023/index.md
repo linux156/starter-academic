@@ -24,7 +24,7 @@ projection of this set has length 0. In this talk I will present recent
 attempts at quantifying this result."
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2023-07-04T13:30:00Z"
+date: "2023-10-02T13:30:00Z"
 # date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
