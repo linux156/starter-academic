@@ -25,7 +25,7 @@ publication_types: ["3"]
 publication: Preprint.
 publication_short: Preprint
 
-abstract: "One formulation of Marstrand's slicing theorem is the following. Assume that $t \\in (1,2]$, and $B \\subset \\mathbb{R}^{2}$ is a Borel set with $\\mathcal{H}^{t}(B) < \\infty$. Then, for almost all directions $e \\in S^{1}$, $\\mathcal{H}^{t}$ almost all of $B$ is covered by lines $\\ell$ parallel to $e$ with $\\mathrm{dim}_{\\mathrm{H}} (B \\cap \\ell) = t - 1$.
+abstract: "One formulation of Marstrand's slicing theorem is the following. Assume that $t \\in (1,2]$, and $B \\subset \\mathbb{R}^{2}$ is a Borel set with $\\mathcal{H}^{t}(B) < \\infty$. Then, for almost all directions $e \\in S^{1}$, $\\mathcal{H}^{t}$ almost all of $B$ is covered by lines $\\ell$ parallel to $e$ with $dim_H (B \\cap \\ell) = t - 1$.
 
 We investigate the prospects of sharpening Marstrand's result in the following sense: in a generic direction $e \\in S^{1}$, is it true that a strictly less than $t$-dimensional part of $B$ is covered by the heavy lines $\\ell \\subset \\mathbb{R}^{2}$, namely those with $\\mathrm{dim}_{\\mathrm{H}} (B \\cap \\ell) > t - 1$? A positive answer for $t$-regular sets $B \\subset \\mathbb{R}^{2}$ was previously obtained by the first author.
 
