@@ -16,7 +16,7 @@ location: University of Oulu
 # abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 summary: ""
-abstract: "The visibility conjecture states that if $E$ is a planar set with Hausdorff dimension $dim(E) > 1$,
+abstract: "The visibility conjecture states that if $E$ is a planar set with Hausdorff dimension greater than 1,
 then for almost every direction the “visible part of $E$” (the subset of E that we “see” looking from
 that direction) has dimension 1. This conjecture is wide open even for self-similar sets with nice
 separation conditions. I will talk about a recent result where I showed that for Ahlfors regular sets
