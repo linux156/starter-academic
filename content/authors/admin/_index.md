@@ -74,7 +74,7 @@ email: ""
 highlight_name: false
 ---
 
-I am a postdoctoral researcher at the Department of Mathematics and Statistics at the University of Jyväskylä. I am mostly interested in geometric measure theory, as well as its applications to harmonic analysis and PDEs. I work in the [Geometric Measure Theory group](https://www.jyu.fi/science/en/maths/research/geometric-measure-theory), led by [Katrin Fässler](https://kfaessler.wixsite.com/math/) and [Tuomas Orponen](https://sites.google.com/view/tuomaths/).
+I am a postdoctoral researcher at the Department of Mathematics and Statistics at the University of Jyväskylä. I am mostly interested in geometric measure theory, as well as its applications to harmonic analysis and PDEs. I work in the [Geometric Measure Theory group](https://www.jyu.fi/en/research-groups/geometric-measure-theory-and-harmonic-analysis), led by [Katrin Fässler](https://kfaessler.wixsite.com/math/) and [Tuomas Orponen](https://sites.google.com/view/tuomaths/).
 
 In years 2022-2025 I am supported by the Academy of Finland postdoctoral grant _Quantitative rectifiability and harmonic measure beyond the Ahlfors-David-regular setting_, grant No. 347123.
 
