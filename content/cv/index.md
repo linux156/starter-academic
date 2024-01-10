@@ -33,3 +33,15 @@ date: "2024-01-09T00:00:00Z"
 - HIM (Bonn), Trimester Programme on Interactions between GMT, Singular integrals, and PDE, Feb--Mar 2022
 - University of Edinburgh, research stay, Feb--May 2020
 - IMPAN (Warsaw), Simons semester on geometry and analysis, Oct 2019
+
+## Teaching experience
+- *University of Jyväskylä*
+	- Lecturer 
+		- _Topics in Harmonic Analysis: Singular Integral Operators_, Autumn 2023/2024
+	- Teaching assistant
+		- _Topics in Harmonic Analysis: Fourier Analysis II_, Autumn 2022/2023
+		- _Real Analysis_, Autumn 2021/2022
+- *Universitat Autònoma de Barcelona*
+	- Teaching assistant
+		- _Mathematics (BSc in Microbiology)_, Spring 2018/2019
+		- _Calculus (BSc in Telecommunications Engineering), Autumn 2018/2019
