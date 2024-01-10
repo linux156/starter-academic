@@ -18,17 +18,20 @@ date: "2024-01-09T00:00:00Z"
 
 ## Current employment
 
-- Postdoctoral researcher, University of Jyväskylä, 2021--2025
+- Postdoctoral researcher, 2021--2025  
+University of Jyväskylä
 
 ## Education
 
-- PhD in Mathematics, Universitat Autònoma de Barcelona, 2017--2021
-- BSc and MSc in Mathematics, University of Warsaw, 2012--2017
+- PhD in Mathematics, 2017--2021  
+Universitat Autònoma de Barcelona
+- BSc and MSc in Mathematics, 2012--2017  
+University of Warsaw
 
 ## Grants
 
-- **Academy of Finland Postdoctoral Researcher grant**  
-_Quantitative rectifiability and harmonic measure beyond the Ahlfors-David-regular setting_, Sep 2022--Aug 2025, grant no. 347123
+- Academy of Finland Postdoctoral Researcher grant, Sep 2022--Aug 2025  
+_Quantitative rectifiability and harmonic measure beyond the Ahlfors-David-regular setting_, grant no. 347123
 
 ## Awards
 
@@ -36,9 +39,12 @@ _Quantitative rectifiability and harmonic measure beyond the Ahlfors-David-regul
 
 ## Research stays and visits
 
-- **HIM (Bonn)**, _Trimester Programme on Interactions between GMT, Singular integrals, and PDE_, Feb--Mar 2022
-- **University of Edinburgh**, research stay, Feb--May 2020
-- **IMPAN (Warsaw)**, Simons semester on geometry and analysis, Oct 2019
+- HIM (Bonn), Feb--Mar 2022  
+Trimester Programme on Interactions between GMT, Singular integrals, and PDE
+- University of Edinburgh, Feb--May 2020  
+Research stay 
+- IMPAN (Warsaw), Oct 2019  
+Simons semester on geometry and analysis
 
 ## Teaching experience
 
