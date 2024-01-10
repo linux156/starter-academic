@@ -21,7 +21,7 @@ interests:
 - quantitative rectifiability
 - singular integral operators in non-doubling setting
 - behaviour of sets and measures under orthogonal projections
-- Furstenberg sets
+- visibility problems
 
 # Education to show in About widget
 education:
@@ -80,4 +80,4 @@ In years 2022-2025 I am supported by the Academy of Finland postdoctoral grant _
 
 I defended my PhD in February 2021 at the Universitat Autònoma de Barcelona, where I worked under supervision of [Xavier Tolsa](http://mat.uab.es/~xtolsa/).
 
-Here is my {{< staticref "pdf/CV_06_2022.pdf" "newtab" >}}CV{{< /staticref >}}.
+Here is my {{< staticref "cv" "newtab" >}}CV{{< /staticref >}}.
