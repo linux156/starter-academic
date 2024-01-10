@@ -24,7 +24,7 @@ date: "2024-01-09T00:00:00Z"
 - BSc and MSc in Mathematics, University of Warsaw, 2012--2017
 
 ## Grants
-- Academy of Finland Postdoctoral Researcher grant _Quantitative rectifiability and harmonic measure beyond the Ahlfors-David-regular setting_, Sep 2022--Aug 2025
+- Academy of Finland Postdoctoral Researcher grant _Quantitative rectifiability and harmonic measure beyond the Ahlfors-David-regular setting_, Sep 2022--Aug 2025, grant no. 347123
 
 ## Awards
 - Vicent Caselles award (2022)
