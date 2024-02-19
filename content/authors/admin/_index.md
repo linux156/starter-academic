@@ -79,5 +79,3 @@ I am a postdoctoral researcher at the Department of Mathematics and Statistics a
 In years 2022-2025 I am supported by the Academy of Finland postdoctoral grant _Quantitative rectifiability and harmonic measure beyond the Ahlfors-David-regular setting_, grant No. 347123.
 
 I defended my PhD in February 2021 at the Universitat Autònoma de Barcelona, where I worked under supervision of [Xavier Tolsa](http://mat.uab.es/~xtolsa/).
-
-Here is my {{< staticref "cv" "newtab" >}}CV{{< /staticref >}}.
