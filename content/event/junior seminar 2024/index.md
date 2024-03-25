@@ -1,5 +1,5 @@
 ﻿---
-title: "Needless Buffoonery with Buffon's Needle"
+title: "Needless buffoonery with Buffon's needle"
 
 event: Jyväskylä Seminar for Young Researchers
 event_url: http://users.jyu.fi/~antkalky/graduate_seminar/
