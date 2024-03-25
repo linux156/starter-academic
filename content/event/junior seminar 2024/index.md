@@ -12,11 +12,8 @@ location: University of Jyväskylä
 #  postcode: '94305'
 #  country: United States
 
-# summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "This talk will be a gentle introduction to the classical Buffon's needle problem, which can be stated as follows: can you measure length of a set by randomly tossing a needle on top of it? Time permitting, we will also discuss some modern incarnations of this question. The talk may involve throwing pens around the room, proceed with caution."
-
 summary: ""
-abstract: ""
+abstract: "This talk will be a gentle introduction to the classical Buffon's needle problem, which can be stated as follows: can you measure length of a set by randomly tossing a needle on top of it? Time permitting, we will also discuss some modern incarnations of this question. The talk may involve throwing pens around the room, proceed with caution."
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2024-04-10T10:15:00Z"
