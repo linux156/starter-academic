@@ -9,8 +9,8 @@ authors:
 - T. Orponen
 - H. Wang
 
-date: "2023-10-18T00:00:00Z"
-doi: ""
+date: "2024-05-01T00:00:00Z"
+doi: "10.1112/jlms.12910"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -22,8 +22,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: To appear in J. Lond. Math. Soc.
-publication_short: To appear in J. Lond. Math. Soc
+publication: J. Lond. Math. Soc. 109, no. 5, e12910.
+publication_short: J. Lond. Math. Soc. 109, no. 5, e12910
 
 abstract: "One formulation of Marstrand's slicing theorem is the following. Assume that $t \\in (1,2]$, and $B \\subset \\mathbb{R}^{2}$ is a Borel set with $\\mathcal{H}^{t}(B) < \\infty$. Then, for almost all directions $e \\in S^{1}$, $\\mathcal{H}^{t}$ almost all of $B$ is covered by lines $\\ell$ parallel to $e$ with $dim_H (B \\cap \\ell) = t - 1$.  
 We investigate the prospects of sharpening Marstrand's result in the following sense: in a generic direction $e \\in S^{1}$, is it true that a strictly less than $t$-dimensional part of $B$ is covered by the heavy lines $\\ell \\subset \\mathbb{R}^{2}$, namely those with $dim_H (B \\cap \\ell) > t - 1$? A positive answer for $t$-regular sets $B \\subset \\mathbb{R}^{2}$ was previously obtained by the first author.  
@@ -39,6 +39,8 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
+- name: "Article"
+  url: "https://doi.org/10.1112/jlms.12910"
 - name: "arXiv"
   url: "https://arxiv.org/abs/2310.11219"
 
