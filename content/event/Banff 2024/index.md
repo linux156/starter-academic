@@ -1,10 +1,10 @@
 ﻿---
 title: "Favard length problem for Ahlfors regular sets"
 
-event: Geometry of Measures and Free Boundaries 2024
-event_url: https://sites.google.com/view/gmfbseattle2024/
+event: On the Interface of Geometric Measure Theory and Harmonic Analysis
+event_url: https://u.osu.edu/taylor.2952/workshops/birs/
 
-location: University of Washington
+location: Banff International Research Station
 # address:
 # street: 450 Serra Mall
 # city: Stanford
@@ -19,7 +19,7 @@ summary: ""
 abstract: ""
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2024-07-22T13:30:00Z"
+date: "2024-06-11T13:30:00Z"
 # date_end: "2030-06-01T15:00:00Z"
 all_day: true
 
