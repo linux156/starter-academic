@@ -13,13 +13,11 @@ location: University of Washington
 #  country: United States
 
 summary: ""
-abstract: "Favard length of a set is the average length of its orthogonal projections. The Besicovitch projection theorem states the following: for any set E of finite length whose Favard length is positive there exists a Lipschitz graph intersecting E in a set of positive length. In other words, Lipschitz graphs are the only sets of finite length generating Favard length. The Favard length problem consists of quantifying this theorem, which is crucial to understand the relation between Favard length and analytic capacity. In this talk I will discuss some recent work on this subject."
+abstract: "Favard length of a set is the average length of its orthogonal projections. The Besicovitch projection theorem states the following: for any set E of finite length whose Favard length is positive there exists a Lipschitz graph intersecting E in a set of positive length. The Favard length problem consists of quantifying this theorem, which is crucial for understanding the relation between Favard length and analytic capacity. In this talk I will discuss some recent work on this subject."
 
-summary: ""
-abstract: ""
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2024-07-22T13:30:00Z"
+date: "2024-07-25T13:30:00Z"
 # date_end: "2030-06-01T15:00:00Z"
 all_day: true
 
