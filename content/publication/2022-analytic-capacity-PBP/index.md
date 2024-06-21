@@ -18,11 +18,11 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Preprint
-publication_short: Preprint
+publication: To appear in Trans. Amer. Math. Soc.
+publication_short: To appear in Trans. Amer. Math. Soc
 
 abstract: "Our main result marks progress on an old conjecture of Vitushkin. We show that a compact set in the plane with plenty of big projections (PBP) has positive analytic capacity, along with a quantitative lower bound. A higher dimensional counterpart is also proved for capacities related to the Riesz kernel, including the Lipschitz harmonic capacity. The proof uses a construction of a doubling Frostman measure on a lower content regular set, which may be of independent interest. Our second main result is the Analyst's Traveling Salesman Theorem for sets with plenty of big projections. As a corollary, we obtain a lower bound for the Hausdorff dimension of uniformly wiggly sets with PBP. The second corollary is an estimate for the capacities of subsets of sets with PBP, in the spirit of the quantitative solution to Denjoy's conjecture."
 # Summary. An optional shortened abstract.
