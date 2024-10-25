@@ -1,5 +1,5 @@
 ﻿---
-title: "TBA"
+title: "Favard length and quantitative rectifiability"
 
 event: Seminario de Análisis Matemático y Matemática Aplicada
 event_url: https://www.ucm.es/dpto-amma/seminario-del-departamento
@@ -13,7 +13,7 @@ location: Universidad Complutense Madrid
 #  country: United States
 
 summary: ""
-abstract: "TBA"
+abstract: "Favard length of a planar set is the average length of its orthogonal projections. The Besicovitch projection theorem, which is one of the cornerstones of geometric measure theory, states the following: if a set E of finite length has positive Favard length, then there exists a rectifiable curve intersecting E in a set of positive length. In this talk I will discuss my recent quantification of this classical result, and its application to Vitushkin's conjecture."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
