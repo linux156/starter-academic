@@ -7,7 +7,7 @@ title: "Visible parts and slices of Ahlfors regular sets"
 authors:
 - D. Dąbrowski
 
-date: "2024-02-19T00:00:00Z"
+date: "2024-12-19T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -20,8 +20,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: To appear in Discrete Anal.
-publication_short: To appear in Discrete Anal
+publication: Discrete Anal. 2024:17, 31 pp.
+publication_short: Discrete Anal. 2024:17, 31 pp
 
 abstract: "We show that for any compact set $E\\subset\\mathbb{R}^d$ the visible part of $E$ has Hausdorff dimension at most $d-1/6$ for almost every direction. This improves recent estimates of Orponen and Matheus. If $E$ is $s$-Ahlfors regular, where $s>d-1$, we prove a much better estimate. In that case for almost every direction the Hausdorff dimension of the visible part is at most $s - \\alpha(s-d+1),$ where $\\alpha>0.183$ is absolute. The estimate is new even for self-similar sets satisfying the open set condition. Along the way, we prove a refinement of the Marstrand's slicing theorem for Ahlfors regular sets."
 # Summary. An optional shortened abstract.
@@ -34,6 +34,8 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
+- name: "Article"
+  url: "https://discreteanalysisjournal.com/article/127570-visible-parts-and-slices-of-ahlfors-regular-sets"
 - name: "arXiv"
   url: "https://arxiv.org/abs/2305.16026"
 
