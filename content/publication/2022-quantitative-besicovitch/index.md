@@ -7,7 +7,7 @@ title: "Quantitative Besicovitch projection theorem for irregular sets of direct
 authors:
 - D. Dąbrowski
 
-date: "2022-11-30T00:00:00Z"
+date: "2025-03-12T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -20,8 +20,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: To appear in Proc. Lond. Math. Soc.
-publication_short: To appear in Proc. Lond. Math. Soc
+publication: Proc. Lond. Math. Soc. 130, no. 3, e70037.
+publication_short: Proc. Lond. Math. Soc. 130, no. 3, e70037
 
 abstract: "The classical Besicovitch projection theorem states that if a planar set E with finite length is purely unrectifiable, then almost all orthogonal projections of E have zero length. We prove a quantitative version of this result: if a planar set E is AD-regular and there exists a set of direction G with $\\mathcal{H}^1(G)\\gtrsim 1$ such that for every $\\theta\\in G$ we have $||\\pi\_{\\theta} \\mathcal{H}^1|\_{E}||\_{L^\\infty}\\lesssim 1$, then a big piece of E can be covered by a Lipschitz graph $\\Gamma$ with $Lip(\\Gamma)\\lesssim 1$. The main novelty of our result is that the set of good directions G is assumed to be merely measurable and large in measure, while previous results of this kind required G to be an arc. As a corollary, we obtain a result on AD-regular sets which avoid a large set of directions, in the sense that the set of directions they span has a large complement. It generalizes the following easy observation: a set E is contained in some Lipschitz graph if and only if the complement of the set of directions spanned by E contains an arc. "
 # Summary. An optional shortened abstract.
@@ -34,6 +34,8 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
+- name: "Article"
+  url: "http://dx.doi.org/10.1112/plms.70037"
 - name: "arXiv"
   url: "https://arxiv.org/abs/2211.16911"
 
