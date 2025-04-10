@@ -8,8 +8,8 @@ authors:
 - D. Dąbrowski
 - M. Villa
 
-date: "2022-04-13T00:00:00Z"
-doi: ""
+date: "2025-04-10T00:00:00Z"
+doi: "10.1090/tran/9265"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -21,8 +21,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: To appear in Trans. Amer. Math. Soc.
-publication_short: To appear in Trans. Amer. Math. Soc
+publication: Trans. Amer. Math. Soc. 378, no. 6, 3897--3950.
+publication_short: Trans. Amer. Math. Soc. 378, no. 6, 3897--3950
 
 abstract: "Our main result marks progress on an old conjecture of Vitushkin. We show that a compact set in the plane with plenty of big projections (PBP) has positive analytic capacity, along with a quantitative lower bound. A higher dimensional counterpart is also proved for capacities related to the Riesz kernel, including the Lipschitz harmonic capacity. The proof uses a construction of a doubling Frostman measure on a lower content regular set, which may be of independent interest. Our second main result is the Analyst's Traveling Salesman Theorem for sets with plenty of big projections. As a corollary, we obtain a lower bound for the Hausdorff dimension of uniformly wiggly sets with PBP. The second corollary is an estimate for the capacities of subsets of sets with PBP, in the spirit of the quantitative solution to Denjoy's conjecture."
 # Summary. An optional shortened abstract.
@@ -35,6 +35,8 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
+- name: "Article"
+  url: "https://doi.org/10.1090/tran/9265"
 - name: "arXiv"
   url: "https://arxiv.org/abs/2204.05804"
 
