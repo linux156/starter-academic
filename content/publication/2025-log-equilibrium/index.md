@@ -24,7 +24,7 @@ publication_types: ["3"]
 publication: Preprint.
 publication_short: Preprint
 
-abstract: "Let $\\mu$ be the logarithmic equilibrium measure on a compact set $\\gamma\\subset\\mathbb{R}^d$. We prove that $\\mu$ is absolutely continuous with respect to the length measure on the part of $\\gamma$ which can be locally expressed as the graph of a $C^{1,\\alpha}$-function $\\mathbb{R}\\to\\mathbb{R}^{d-1}, $\\alpha>0$.
+abstract: "Let $\\mu$ be the logarithmic equilibrium measure on a compact set $\\gamma\\subset\\mathbb{R}^d$. We prove that $\\mu$ is absolutely continuous with respect to the length measure on the part of $\\gamma$ which can be locally expressed as the graph of a $C^{1,\\alpha}$-function $\\mathbb{R}\\to\\mathbb{R}^{d-1}$, $\\alpha>0$.
 For $d=2$, at least in the case where $\\gamma$ is a compact $C^{1,\\alpha}$-graph, our result can also be deduced from the classical fact that $\\mu$ coincides with the harmonic measure of $\\Omega=\\mathbb{R}^2\\setminus\\gamma$ with pole at $\\infty$. For $d\\ge 3$, however, our result is new even for $C^{\\infty}$-graphs. In fact, up to now it was not even known if the support of $\\mu$ has positive dimension. "
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
