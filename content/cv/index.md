@@ -39,6 +39,7 @@ _Quantitative rectifiability and harmonic measure beyond the Ahlfors-David-regul
 
 ## Research stays and visits
 
+- Universitat Autònoma de Barcelona, Oct-Nov 2024
 - HIM (Bonn), Feb--Mar 2022  
 Trimester Programme on Interactions between GMT, Singular integrals, and PDE
 - University of Edinburgh, Feb--May 2020  
@@ -52,6 +53,7 @@ Simons semester on geometry and analysis
 	- Lecturer 
 		- _Topics in Harmonic Analysis: Singular Integral Operators_, Autumn 2023/2024
 	- Teaching assistant
+		- _Geometric Measure Theory_, Summer 2024/2025
 		- _Topics in Harmonic Analysis: Fourier Analysis II_, Autumn 2022/2023
 		- _Real Analysis_, Autumn 2021/2022
 - Universitat Autònoma de Barcelona
