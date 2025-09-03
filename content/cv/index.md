@@ -16,8 +16,10 @@ header:
 date: "2024-01-09T00:00:00Z"
 ---
 
-## Current employment
+## Employment
 
+- Assistant professor, 2025--2032  
+IMPAN
 - Postdoctoral researcher, 2021--2025  
 University of Jyväskylä
 
