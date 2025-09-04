@@ -23,6 +23,9 @@ main:
   - name: CV
     url: 'cv'
     weight: 57
+  - name: QPROJECT
+    url: 'qproject'
+    weight: 58
   - name: Contact
     url: '#contact'
     weight: 60
