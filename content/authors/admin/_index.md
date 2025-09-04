@@ -76,3 +76,5 @@ highlight_name: false
 ---
 
 I am an assistant professor at the [Institute of Mathematics of the Polish Academy of Sciences](https://www.impan.pl/en) (IMPAN). I am mostly interested in geometric measure theory, as well as its applications to harmonic analysis and PDEs.
+
+In years 2025-2030 I am supported by an ERC Starting Grant [_Quantitative projection problems in geometric measure theory_](/qproject), grant no. 101219218.
