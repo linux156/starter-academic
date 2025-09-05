@@ -32,6 +32,8 @@ University of Warsaw
 
 ## Grants
 
+- European Research Council Starting Grant, Oct 2025--Sep 2030  
+_Quantitative projection problems in geometric measure theory_, grant no. 101219218 QPROJECT
 - Academy of Finland Postdoctoral Researcher grant, Sep 2022--Aug 2025  
 _Quantitative rectifiability and harmonic measure beyond the Ahlfors-David-regular setting_, grant no. 347123
 
