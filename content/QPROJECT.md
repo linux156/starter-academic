@@ -18,7 +18,7 @@ header:
   
 ---
 
-<center><img title="QPROJECT logo" alt="Logo of QPROJECT" src="/images/logo-qproject.png" width="200"></center>
+<center><img title="QPROJECT logo" alt="Logo of QPROJECT" src="/images/logo-qproject-background.png" width="200"></center>
 
 **Duration:** October 2025 – September 2030
 
@@ -49,7 +49,11 @@ The third problem is the **visibility conjecture** from fractal geometry, which 
 
 If you are interested in applying for one of these positions, [send me an email!](mailto:damian.m.dabrowski@jyu.fi)
 
-<center><img title="EU and ERC logos" alt="Funded by the European Union and the European Research Council" src="/images/logo-erc.png" width="400"></center>
+## In the media
+- [ERC Starting Grant: Sześcioro naukowców poprowadzi swoje badania w Polsce](https://forumakademickie.pl/erc-starting-grant-szescioro-badaczy-poprowadzi-swoje-badania-w-polsce/) - Forum Akademickie
+- [Matematyk z grantem ERC planuje ucieczkę z jaskini Platona](https://naukawpolsce.pl/aktualnosci/news%2C109391%2Cmatematyk-z-grantem-erc-planuje-ucieczke-z-jaskini-platona.html) - Nauka w Polsce (PAP)
+
+<center><img title="EU and ERC logos" alt="EU and ERC logos" src="/images/logo-erc.png" width="400"></center>
 
 Funded by the European Union. Views and opinions expressed are however those of the author(s) only
 and do not necessarily reflect those of the European Union or European Research Council. Neither
