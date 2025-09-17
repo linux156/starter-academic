@@ -27,7 +27,9 @@ header:
 **Grant number:** 101219218 QPROJECT
 
 <br>
+
 ## About QPROJECT
+
 <br>
 
 This project is in the field of **geometric measure theory** (GMT), an area of analysis seeking to solve geometric problems using the tools of measure theory. A classical line of research in GMT concerns estimating the size of orthogonal projections of planar sets, and the most important results in this topic are the projection theorems of Besicovitch and Marstrand. 
@@ -41,7 +43,9 @@ The plan is to solve these two problems using the tools of quantitative rectifia
 The third problem is the **visibility conjecture** from fractal geometry, which is closely related to quantifying Marstrand’s classical slicing theorem. Building on the [PI’s earlier work on this conjecture](/publication/2023-visible-parts/), the key to the full solution will be proving lower bounds on incidences in multiscale incidence geometry.
 
 <br>
+
 ## Team
+
 <br>
 
 **PI:** Damian Dąbrowski
@@ -53,8 +57,11 @@ The third problem is the **visibility conjecture** from fractal geometry, which 
 If you are interested in applying for one of these positions, [send me an email!](mailto:damian.m.dabrowski@jyu.fi)
 
 <br>
+
 ## In the media
+
 <br>
+
 - [ERC Starting Grant: Sześcioro naukowców poprowadzi swoje badania w Polsce](https://forumakademickie.pl/erc-starting-grant-szescioro-badaczy-poprowadzi-swoje-badania-w-polsce/) - Forum Akademickie
 - [Matematyk z grantem ERC planuje ucieczkę z jaskini Platona](https://naukawpolsce.pl/aktualnosci/news%2C109391%2Cmatematyk-z-grantem-erc-planuje-ucieczke-z-jaskini-platona.html) - Nauka w Polsce (PAP)
 
