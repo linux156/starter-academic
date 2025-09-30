@@ -1,8 +1,8 @@
 ﻿---
-title: "Favard length and quantitative rectifiability"
+title: "Equilibrium measures on curves"
 
-event: Warsaw Analysis Days Event WADE25
-event_url: https://sites.google.com/view/wade25
+event: Seminarium Zakładu Równań i Analizy
+event_url: https://www.mimuw.edu.pl/pl/seminaria/seminarium-zakladu-rownan-i-analizy/
 
 location: University of Warsaw
 # address:
@@ -13,11 +13,11 @@ location: University of Warsaw
 #  country: United States
 
 summary: ""
-abstract: "Favard length of a planar set is the average length of its orthogonal projections. The Besicovitch projection theorem, which is one of the cornerstones of geometric measure theory, states the following: if a set E of finite length has positive Favard length, then there exists a rectifiable curve intersecting E in a set of positive length. In this talk I will discuss my recent quantification of this classical result, and its application to Vitushkin's conjecture."
+abstract: "In this talk I will discuss one of the most classical objects of study in potential theory: equilibrium measures for the logarithmic energy. Given a compact set $E$, the (logarithmic) equilibrium measure on $E$ is the unique (if it exists) minimizer of the logarithmic energy among all measures supported on $E$. In the case of planar sets, the equilibrium measure coincides with the harmonic measure, and is rather well-understood. However, almost nothing is known about the equilibrium measures associated to subsets of higher dimensional Euclidean spaces. In a recent paper with Tuomas Orponen we show that these measures are absolutely continuous with respect to the arc-length measure on $C^{1,\\alpha}$ curves in arbitrary dimension. I will describe some ideas of our proof, and mention many related open problems."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2025-09-22T10:30:00Z"
+date: "2025-10-08T10:30:00Z"
 # date_end: "2030-06-01T15:00:00Z"
 all_day: true
 
@@ -40,7 +40,7 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
-url_slides: "/talks/Dabrowski-talk-Warsaw2025.pdf"
+url_slides: ""
 url_video: ""
 
 # Markdown Slides (optional).

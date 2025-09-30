@@ -1,10 +1,10 @@
 ﻿---
-title: "Favard length and quantitative rectifiability"
+title: "Quantifying the Besicovitch projection theorem"
 
-event: Warsaw Analysis Days Event WADE25
-event_url: https://sites.google.com/view/wade25
+event: Westlake Winter School in Geometric Measure Theory
+event_url: 
 
-location: University of Warsaw
+location: Westlake University, Hangzhou
 # address:
 # street: 450 Serra Mall
 # city: Stanford
@@ -13,12 +13,13 @@ location: University of Warsaw
 #  country: United States
 
 summary: ""
-abstract: "Favard length of a planar set is the average length of its orthogonal projections. The Besicovitch projection theorem, which is one of the cornerstones of geometric measure theory, states the following: if a set E of finite length has positive Favard length, then there exists a rectifiable curve intersecting E in a set of positive length. In this talk I will discuss my recent quantification of this classical result, and its application to Vitushkin's conjecture."
+abstract: "The Besicovitch projection theorem, which is one of the cornerstones of geometric measure theory, states the following: a set $E$ of finite length is purely unrectifiable if and only if almost every orthogonal projection of $E$ is Lebesgue-null. This old and remarkable result, which links rectifiability and projections, is purely qualitative - it does not provide any bounds for the size of projections of sets that are ``close to being purely unrectifiable.''
+In the last 30 years significant effort has been put into quantifying Besicovitch's theorem, and the main motivation is the Vitushkin's conjecture on removable sets for bounded analytic functions. In this mini-course I will present the history of this problem, as well as some tools and ideas involved in the most recent progress."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2025-09-22T10:30:00Z"
-# date_end: "2030-06-01T15:00:00Z"
+date: "2026-02-02T15:30:00Z"
+date_end: "2026-02-06T15:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -40,7 +41,7 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
-url_slides: "/talks/Dabrowski-talk-Warsaw2025.pdf"
+url_slides: ""
 url_video: ""
 
 # Markdown Slides (optional).
