@@ -54,7 +54,7 @@ The third problem is the **visibility conjecture** from fractal geometry, which 
 - 3 postdocs, starting from 2025, 2026, and 2028,
 - 1 PhD student, starting from 2027.
 
-If you are interested in applying for one of these positions, [send me an email!](mailto:damian.m.dabrowski@jyu.fi)
+If you are interested in applying for one of these positions, [send me an email!](mailto:ddabrowski@impan.pl)
 
 <br>
 

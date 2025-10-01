@@ -15,19 +15,19 @@ font_size: M
 site_type: Person
 local_business_type: ''
 org_name: ''
-description: 'Personal website of Damian Dabrowski, postdoctoral researcher in mathematics at the University of Jyväskylä'
+description: 'Professional website of Damian Dabrowski, assistant professor at the Institute of Mathematics of the Polish Academy of Sciences'
 twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: "damian.m.dabrowski [at] jyu.fi"
+email: "ddabrowski [at] impan.pl"
 address:
-  street: P.O. Box 35 (MaD)
-  city: University of Jyväskylä
-  postcode: '40014'
-  country: Finland
-  country_code: FI
-directions: "Office: MaD 338."
+  street:  ul. Śniadeckich 8
+  city: Warszawa
+  postcode: '00-656'
+  country: Poland
+  country_code: PL
+directions: "Office: 317"
 
 # Site header
 
