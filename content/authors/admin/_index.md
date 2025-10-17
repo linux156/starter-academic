@@ -78,3 +78,7 @@ highlight_name: false
 I am an assistant professor at the [Institute of Mathematics of the Polish Academy of Sciences](https://www.impan.pl/en) (IMPAN). I am mostly interested in geometric measure theory, as well as its applications to harmonic analysis and PDEs.
 
 In years 2025-2030 I am supported by the ERC Starting Grant [_Quantitative projection problems in geometric measure theory_](/qproject), grant no. 101219218.
+
+There are two 2-year postdoctoral positions open in my project right now. The deadlines to apply are 16th December and 16th January, with expected start dates 15th January and 1st October, respectively. The start dates are flexible. For more information see [call 1](https://www.impan.pl/images/Konkursy/2025_Rok_rozstrzygniecia/Konkurs-postdoc1_ERC_Dabrowski_ang.pdf), [call 2](https://www.impan.pl/images/Konkursy/2025_Rok_rozstrzygniecia/Konkurs-postdoc2_ERC_Dabrowski_ang.pdf). Informal enquiries by [e-mail](mailto:ddabrowski@impan.pl) are also welcome!
+
+<center><img title="EU and ERC logos" alt="Funded by the European Union and the European Research Council" src="/images/logo-erc.png" width="500"></center>

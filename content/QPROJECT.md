@@ -28,6 +28,14 @@ header:
 
 <br>
 
+## Job openings
+
+<br>
+
+There are two 2-year postdoctoral positions open in my project right now. The deadlines to apply are 16th December and 16th January, with expected start dates 15th January and 1st October, respectively. The start dates are flexible. For more information see [call 1](https://www.impan.pl/images/Konkursy/2025_Rok_rozstrzygniecia/Konkurs-postdoc1_ERC_Dabrowski_ang.pdf), [call 2](https://www.impan.pl/images/Konkursy/2025_Rok_rozstrzygniecia/Konkurs-postdoc2_ERC_Dabrowski_ang.pdf). Informal enquiries by [e-mail](mailto:ddabrowski@impan.pl) are also welcome!
+
+<br>
+
 ## About QPROJECT
 
 <br>
