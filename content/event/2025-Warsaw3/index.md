@@ -1,11 +1,10 @@
 ﻿---
 title: "Equilibrium measures on curves"
 
-event:  Harmonic Analysis Seminar
-event_url: https://www.imo.universite-paris-saclay.fr/en/research/harmonic-analysis/
+event: Seminar in Geometric Function and Mapping Theory
+event_url: https://www.impan.pl/~tadamowi/GFTseminar2025.html
 
-location: Université Paris-Saclay
-
+location: IMPAN
 # address:
 # street: 450 Serra Mall
 # city: Stanford
@@ -18,7 +17,7 @@ abstract: "In this talk I will discuss one of the most classical objects of stud
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2025-11-18T15:30:00Z"
+date: "2025-11-06T10:30:00Z"
 # date_end: "2030-06-01T15:00:00Z"
 all_day: true
 

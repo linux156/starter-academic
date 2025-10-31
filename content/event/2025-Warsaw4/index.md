@@ -1,11 +1,10 @@
 ﻿---
-title: "Equilibrium measures on curves"
+title: "TBA"
 
-event:  Harmonic Analysis Seminar
-event_url: https://www.imo.universite-paris-saclay.fr/en/research/harmonic-analysis/
+event: IMPAN Colloquium
+event_url: https://sites.google.com/view/kolokwium/home
 
-location: Université Paris-Saclay
-
+location: IMPAN
 # address:
 # street: 450 Serra Mall
 # city: Stanford
@@ -14,11 +13,11 @@ location: Université Paris-Saclay
 #  country: United States
 
 summary: ""
-abstract: "In this talk I will discuss one of the most classical objects of study in potential theory: equilibrium measures for the logarithmic energy. Given a compact set $E$, the (logarithmic) equilibrium measure on $E$ is the unique (if it exists) minimizer of the logarithmic energy among all measures supported on $E$. In the case of planar sets, the equilibrium measure coincides with the harmonic measure, and is rather well-understood. However, almost nothing is known about the equilibrium measures associated to subsets of higher dimensional Euclidean spaces. In a recent paper with Tuomas Orponen we show that these measures are absolutely continuous with respect to the arc-length measure on $C^{1,\\alpha}$ curves in arbitrary dimension. I will describe some ideas of our proof, and mention many related open problems."
+abstract: "TBA"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2025-11-18T15:30:00Z"
+date: "2025-12-03T10:30:00Z"
 # date_end: "2030-06-01T15:00:00Z"
 all_day: true
 
