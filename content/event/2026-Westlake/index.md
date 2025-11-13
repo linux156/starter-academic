@@ -2,7 +2,7 @@
 title: "Quantifying the Besicovitch projection theorem"
 
 event: Westlake Winter School in Geometric Measure Theory
-event_url: 
+event_url: https://www.thierrydepauw.org/?page_id=660
 
 location: Westlake University, Hangzhou
 # address:

@@ -1,5 +1,5 @@
 ﻿---
-title: "TBA"
+title: "What is uniform rectifiability?"
 
 event: IMPAN Colloquium
 event_url: https://sites.google.com/view/kolokwium/home
