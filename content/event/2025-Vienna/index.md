@@ -17,7 +17,7 @@ abstract: "In this talk I will discuss one of the most classical objects of stud
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2025-12-01T15:30:00Z"
+date: "2025-11-24T15:30:00Z"
 # date_end: "2030-06-01T15:00:00Z"
 all_day: true
 
