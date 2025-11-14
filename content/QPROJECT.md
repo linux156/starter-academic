@@ -74,6 +74,7 @@ If you are interested in applying for one of these positions, [send me an email!
 
 <br>
 
+- [Sztuka patrzenia na cienie. O badaniach dr. Damiana Dąbrowskiego](https://academia.pan.pl/sztuka-patrzenia-na-cienie-o-badaniach-dr-damiana-dabrowskiego/) - Academia PAN
 - [ERC Starting Grant: Sześcioro naukowców poprowadzi swoje badania w Polsce](https://forumakademickie.pl/erc-starting-grant-szescioro-badaczy-poprowadzi-swoje-badania-w-polsce/) - Forum Akademickie
 - [Matematyk z grantem ERC planuje ucieczkę z jaskini Platona](https://naukawpolsce.pl/aktualnosci/news%2C109391%2Cmatematyk-z-grantem-erc-planuje-ucieczke-z-jaskini-platona.html) - Nauka w Polsce (PAP)
 
