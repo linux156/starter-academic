@@ -40,7 +40,7 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
-url_slides: ""
+url_slides: "/talks/Dabrowski-talk-IMPAN2025.pdf"
 url_video: ""
 
 # Markdown Slides (optional).
