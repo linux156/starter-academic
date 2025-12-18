@@ -1,5 +1,5 @@
 ﻿---
-title: "What is uniform rectifiability?"
+title: "The geometry of singular integral operators"
 
 event: IMPAN Colloquium
 event_url: https://sites.google.com/view/kolokwium/home
@@ -13,7 +13,7 @@ location: IMPAN
 #  country: United States
 
 summary: ""
-abstract: "TBA"
+abstract: "Singular integral operators are among the most classical objects of study in harmonic analysis, arising naturally in complex analysis and partial differential equations. Originally studied on the line and smooth curves, in the last 50 years a rich theory of singular integrals on rough sets has been developed. This talk will be a gentle introduction to the topic, and our motivating question will be the classical Painlevé problem: what is the geometry of removable singularities for bounded holomorphic functions?"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -40,7 +40,7 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
-url_slides: ""
+url_slides: "/talks/Dabrowski-talk-IMPAN2025.pdf"
 url_video: ""
 
 # Markdown Slides (optional).
