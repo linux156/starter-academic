@@ -41,15 +41,13 @@ _Quantitative rectifiability and harmonic measure beyond the Ahlfors-David-regul
 
 - Vicent Caselles award (2022)
 
-## Research stays and visits
+## Research stays
 
 - Universitat Autònoma de Barcelona, Oct-Nov 2024
-- HIM (Bonn), Feb--Mar 2022  
-Trimester Programme on Interactions between GMT, Singular integrals, and PDE
+- HIM (Bonn), Trimester Programme on Interactions between GMT, Singular integrals, and PDE, Feb--Mar 2022  
 - University of Edinburgh, Feb--May 2020  
-Research stay 
-- IMPAN (Warsaw), Oct 2019  
-Simons semester on geometry and analysis
+- IMPAN, Simons semester on geometry and analysis, Oct 2019  
+
 
 ## Teaching experience
 
@@ -64,3 +62,10 @@ Simons semester on geometry and analysis
 	- Teaching assistant
 		- _Mathematics (BSc in Microbiology)_, Spring 2018/2019
 		- _Calculus (BSc in Telecommunications Engineering)_, Autumn 2018/2019
+		
+## Organization and service
+
+- member of the Scientific Council at IMPAN, 2026
+- co-organizer of [Seminar in Geometric Function and Mapping Theory](https://sites.google.com/impan.pl/seminar-gfmt/), IMPAN, 2025--
+- co-organizer of the GMTKonnevesi workshop, 2026
+- co-organizer of [AGENT Forum 2024](https://agent-forum.github.io/), University of Jyväskylä, 2024

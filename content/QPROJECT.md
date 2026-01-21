@@ -28,14 +28,6 @@ header:
 
 <br>
 
-## Job openings
-
-<br>
-
-**There is a 2-year postdoctoral positions open in my project right now.** The deadline to apply is 16th January, with expected start date 1st October 2026. The start date is flexible. For more information see [the call](https://www.impan.pl/images/Konkursy/2025_Rok_rozstrzygniecia/Konkurs-postdoc2_ERC_Dabrowski_ang.pdf). Informal enquiries by [e-mail](mailto:ddabrowski@impan.pl) are also welcome!
-
-<br>
-
 ## About QPROJECT
 
 <br>
@@ -63,6 +55,7 @@ The third problem is the **visibility conjecture** from fractal geometry, which 
 
 **Planned openings**: 
 - 1 PhD student starting from 2027,
+- 1 postdoc starting from 2027,
 - 1 postdoc starting from 2028.
 
 
