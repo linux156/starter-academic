@@ -81,6 +81,4 @@ Together with [Tomasz Adamowicz](https://www.impan.pl/~tadamowi/) we are running
 
 In years 2025-2030 I am supported by the ERC Starting Grant [_Quantitative projection problems in geometric measure theory_](/qproject), grant no. 101219218.
 
-**There is a 2-year postdoctoral positions open in my project right now.** The deadline to apply is 16th January, with expected start date 1st October 2026. The start date is flexible. For more information see [the call](https://www.impan.pl/images/Konkursy/2025_Rok_rozstrzygniecia/Konkurs-postdoc2_ERC_Dabrowski_ang.pdf). Informal enquiries by [e-mail](mailto:ddabrowski@impan.pl) are also welcome!
-
 <center><img title="EU and ERC logos" alt="Funded by the European Union and the European Research Council" src="/images/logo-erc.png" width="400"></center>
