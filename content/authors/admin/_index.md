@@ -17,25 +17,25 @@ organizations:
 bio: My research interests include geometric measure theory and harmonic analysis.
 
 # Interests to show in About widget
-interests:
-- quantitative rectifiability
-- singular integral operators in non-doubling setting
-- behaviour of sets and measures under orthogonal projections
-- visibility problems
-- potential theory
+#interests:
+#- quantitative rectifiability
+#- singular integral operators in non-doubling setting
+#- behaviour of sets and measures under orthogonal projections
+#- visibility problems
+#- potential theory
 
 # Education to show in About widget
-education:
-  courses:
-  - course: PhD in Mathematics
-    institution: Universitat Autònoma de Barcelona
-    year: 2021
-  - course: MSc in Mathematics
-    institution: University of Warsaw
-    year: 2017
-  - course: BSc in in Mathematics
-    institution: University of Warsaw
-    year: 2015
+#education:
+# courses:
+#  - course: PhD in Mathematics
+#    institution: Universitat Autònoma de Barcelona
+#    year: 2021
+#  - course: MSc in Mathematics
+#    institution: University of Warsaw
+#    year: 2017
+#  - course: BSc in in Mathematics
+#    institution: University of Warsaw
+#    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

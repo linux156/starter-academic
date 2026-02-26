@@ -50,9 +50,6 @@ The third problem is the **visibility conjecture** from fractal geometry, which 
 
 **PI:** Damian Dąbrowski
 
-**Open positions**:
-- a 2 year postdoc position, see [the call](https://www.impan.pl/images/Konkursy/2025_Rok_rozstrzygniecia/Konkurs-postdoc2_ERC_Dabrowski_ang.pdf).
-
 **Planned openings**: 
 - 1 PhD student starting from 2027,
 - 1 postdoc starting from 2027,
