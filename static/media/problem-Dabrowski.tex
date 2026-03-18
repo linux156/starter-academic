@@ -1,0 +1,38 @@
+\problem{Analytic capacity of sets with big projections at small scales}{Damian D\k{a}browski}
+%
+%\stepcounter{problem}
+%\begin{center}
+%	\textsc{\large {Problem \arabic{problem}}}
+%	
+%	\textsc{Analytic capacity of sets with big projections at small scales} 	% insert a short title for the problem
+%
+%	{\small Proposed by Damian D\k{a}browski}	% insert name and surname
+%\end{center}
+%
+%\vspace{1em}
+
+\subsection*{Notation}
+Let $\pi_\theta:\R^2\to\R$ be the projection in direction $\theta\in (0,\pi)$, $\text{Fav}(E)=\int_0^\pi \mathcal{H}^1(\pi_\theta(E))\, d\theta$ denote Favard length, and $\gamma(E)$ denote analytic capacity. 
+
+\subsection*{Question}
+Suppose that $E\subset\R^2$ is compact and for every $x\in E$ we have
+\begin{equation}\label{eq:smallULFL}
+	\liminf_{r\to 0}\frac{\text{Fav}(E\cap B(x,r))}{r} > 0. 
+\end{equation}
+Does this imply $\gamma(E)>0$?
+
+\subsection*{Background}
+According to the open part of the Vitushkin's conjecture we have
+\begin{equation*}
+	\text{Fav}(E)>0\quad\Rightarrow\quad\gamma(E)>0.
+\end{equation*}
+This is true for sets of finite length, but open for sets of infinite length. Condition \eqref{eq:smallULFL} is stronger than $\text{Fav}(E)>0$, so it would make for nice partial progress towards this conjecture.
+
+Michele and I showed in \arxiv{2204.05804} and \arxiv{2408.03919} that if $E$ satisfies the \textit{uniformly large Favard length (ULFL)} condition
+\begin{equation}\label{eq:ULFL}
+	\text{Fav}(E\cap B(x,r))\ge cr \quad \text{for all }x\in E,\, 0<r<\text{diam}(E),
+\end{equation}
+then $\gamma(E)\gtrsim_c \text{diam}(E)$. Condition \eqref{eq:smallULFL} is an infinitesimal, qualitative version of ULFL, and one may expect that the qualitative conclusion $\gamma(E)>0$ would follow either by modifying the proof in \arxiv{2204.05804}, or perhaps by somehow reducing to the case of \eqref{eq:ULFL}. The proof of \arxiv{2204.05804} boils down to carefully approximating a general measure using AD-regular measures. For more information see the introduction to \arxiv{2204.05804}.
+
+
+\hrulefill

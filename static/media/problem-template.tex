@@ -1,0 +1,35 @@
+\problem{Title}{Name Surname}
+
+Beautiful statement of a very nice problem here. Possibly with a short motivation and background, ideally no longer than 1 page. Suggested format:
+\subsection*{Notation} If the notation is not widely known and standard.
+
+\subsection*{Question} Here you state the problem.
+
+\subsection*{Background} Here you explain where this comes from, why this is interesting, and if you already have some approach in mind.
+
+\vspace{.5em}
+Commands for $\R,\, \Z$ and $\C$ are included, but don't add any new commands or macros, this could be a mess when putting everything together.
+
+If you want to add references, you can insert them directly below and use \cite{besicovitch1939on}, or if you don't want to bother, you can just include links to papers, like this: \doi{10.1007/BF01597361}, or \url{https://link.springer.com/article/10.1007/BF01597361}, or \href{https://link.springer.com/article/10.1007/BF01597361}{Besicovitch's paper}, or \arxiv{2304.01393}.
+
+\begin{thebibliography}
+	\expandafter\ifx\csname url\endcsname\relax
+	\def\url#1{\texttt{#1}}\fi
+	\expandafter\ifx\csname doi\endcsname\relax
+	\def\doi#1{\burlalt{doi:#1}{http://dx.doi.org/#1}}\fi
+	\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+	\expandafter\ifx\csname href\endcsname\relax
+	\def\href#1#2{#2}\fi
+	\expandafter\ifx\csname burlalt\endcsname\relax
+	\def\burlalt#1#2{\href{#2}{#1}}\fi
+	
+\bibitem[Bes39]{besicovitch1939on}
+A.S. Besicovitch.
+\newblock On the fundamental geometrical properties of linearly measurable
+plane sets of points {(III)}.
+\newblock {\em Math. Ann.}, 116(1):349--357, 1939.
+\newblock \doi{10.1007/BF01597361}.
+\end{thebibliography}
+
+\hrulefill
+\vspace{1em}
