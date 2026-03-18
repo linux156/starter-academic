@@ -18,11 +18,13 @@ header:
   
 ---
 
-**When:** 29.06 - 03.07.2026
+<center><img title="Konnevesi" alt="A photograph of boats in Konnevesi" src="/images/Konnevesi-small.jpg" width="400"></center>
+
+**When:** 29 June - 3 July 2026
 
 **Where:** [Konnevesi Research Station](https://www.jyu.fi/en/science/konnevesi-research-station/facilities), close to Jyväskylä, Finland
 
-**Organizers:** Damian Dąbrowski, Tuomas Orponen, Michele Villa
+**Organizers:** Damian Dąbrowski, [Tuomas Orponen](https://sites.google.com/view/tuomaths/), [Michele Villa](https://michele-villa.github.io/website/)
 
 <br>
 
@@ -36,7 +38,9 @@ GMTKonnevesi will be a small workshop aimed at early career researchers working 
 
 ## Workshop preparation
 
-- until **12 April**: proposing problems. To propose a problem, fill the [problem-template.tex](/media/problem-template.tex) and send it to ddabrowski@impan.pl by 12 April. Here is an [example problem](/media/problem-Dabrowski.tex).
+<br>
+
+- **until 12 April**: proposing problems. To propose a problem, fill the [problem-template.tex](/media/problem-template.tex) and send it to ddabrowski@impan.pl by 12 April. Here is an [example problem](/media/problem-Dabrowski.tex).
 - 13 April - 3 May: reading the proposed problems and expressing interest in your favorites
 - sometime between 4 and 15 May: a videocall where we finalize our choices and divide into small groups
 - 16 May - 28 June: preparing for the workshop within small groups, the way you see fit (reading papers, preliminary work, videocalls...)
@@ -46,7 +50,9 @@ Of course the small groups may choose to change their problem(s) at any moment, 
 
 ## Getting there
 
-We'll organize a bus from Jyväskylä for the evening of 28.06, so you only need to take care of your transportation to Jyväskylä. The most convenient way is flying to Helsinki and then taking a train to Jyväskylä. The train ride takes about 3 hours, and the trains are fairly frequent. There are also some flights between Helsinki and Jyväskylä. The return bus from Konnevesi to Jyväskylä will be on 4.07 morning.
+<br>
+
+We'll organize a bus from Jyväskylä for the evening of 28 June, so you only need to take care of your transportation to Jyväskylä. The most convenient way is flying to Helsinki and then taking a train to Jyväskylä. The train ride takes about 3 hours, and the trains are fairly frequent. There are also some flights between Helsinki and Jyväskylä. The return bus from Konnevesi to Jyväskylä will be on 4 July in the morning.
 
 <br>
 
