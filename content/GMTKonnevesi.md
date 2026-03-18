@@ -18,7 +18,7 @@ header:
   
 ---
 
-<center><img title="Konnevesi" alt="A photograph of boats in Konnevesi" src="/images/Konnevesi-small.jpg" width="400"></center>
+<center><img title="Konnevesi" alt="A photograph of boats in Konnevesi" src="/images/Konnevesi-small.jpg" width="600"></center>
 
 **When:** 29 June - 3 July 2026
 
@@ -47,6 +47,8 @@ GMTKonnevesi will be a small workshop aimed at early career researchers working 
 - 29 June: workshop begins!
 
 Of course the small groups may choose to change their problem(s) at any moment, and it's also always possible to switch groups.
+
+<br>
 
 ## Getting there
 
