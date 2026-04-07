@@ -26,6 +26,9 @@ main:
   - name: QPROJECT
     url: 'qproject'
     weight: 58
+  - name: GMTKonnevesi
+    url: 'gmtkonnevesi'
+    weight: 59
   - name: Contact
     url: '#contact'
     weight: 60

@@ -28,6 +28,14 @@ header:
 
 <br>
 
+## Open position
+
+<br>
+
+There's an open research assistant position. The position is for 3 years and the deadline for applications is 2nd June. See [the call](https://www.impan.pl/en/job-offers/open-calls/1839-open-call-assistant-erc-dabrowski-eng).
+
+<br>
+
 ## About QPROJECT
 
 <br>
