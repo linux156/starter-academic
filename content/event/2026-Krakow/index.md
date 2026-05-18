@@ -2,9 +2,9 @@
 title: "Favard length of random Cantor sets"
 
 event: Dynamical Systems seminar
-event_url: https://sites.google.com/impan.pl/dynamical-systems/seminar/upcoming-seminars
+event_url: https://dynsys.im.uj.edu.pl/archiwum.php?lang=eng
 
-location: IMPAN
+location: Jagiellonian University
 # address:
 # street: 450 Serra Mall
 # city: Stanford
@@ -17,7 +17,7 @@ abstract: "Favard length of a planar compact set is the average length of its or
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2026-03-30T11:15:00Z"
+date: "2026-05-15T11:15:00Z"
 # date_end: "2030-06-01T15:00:00Z"
 all_day: true
 
