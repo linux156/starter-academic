@@ -28,14 +28,6 @@ header:
 
 <br>
 
-## Open position
-
-<br>
-
-There's an open research assistant position. The position is for 3 years and the deadline for applications is 2nd June. See [the call](https://www.impan.pl/en/job-offers/open-calls/1839-open-call-assistant-erc-dabrowski-eng).
-
-<br>
-
 ## About QPROJECT
 
 <br>
@@ -59,7 +51,6 @@ The third problem is the **visibility conjecture** from fractal geometry, which 
 **PI:** Damian Dąbrowski
 
 **Planned openings**: 
-- 1 PhD student starting from 2027,
 - 1 postdoc starting from 2027,
 - 1 postdoc starting from 2028.
 
