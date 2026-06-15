@@ -47,7 +47,7 @@ GMTKonnevesi will be a small workshop aimed at early career researchers working 
 |11:30 - 12:30| Lunch  | Lunch  | Lunch  |Lunch  |Lunch  |
 |13:00 - 15:00| Small groups| Small groups  | Small groups  |Small groups|Small groups|
 |15:00 - 15:30|Coffee break|Coffee break|Coffee break|Coffee break|Coffee break|
-|15:30 - 17:00|Short talks|Small groups|AI in Math|Small groups|Wrap-up|
+|15:30 - 17:00|Short talks|AI in Math|Small groups|Small groups|Wrap-up|
 |18:30|Dinner|Dinner|BBQ|Dinner|Dinner|
 
 <br>
