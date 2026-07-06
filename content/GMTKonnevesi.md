@@ -18,7 +18,7 @@ header:
   
 ---
 
-<center><img title="Konnevesi" alt="A photograph of boats in Konnevesi" src="/images/Konnevesi-small.jpg" width="600"></center>
+<center><img title="Konnevesi" alt="A group photo" src="/images/group-Konnevesi.jpeg" width="600"></center>
 
 **When:** 29 June - 3 July 2026
 
@@ -47,7 +47,7 @@ GMTKonnevesi will be a small workshop aimed at early career researchers working 
 |11:30 - 12:30| Lunch  | Lunch  | Lunch  |Lunch  |Lunch  |
 |13:00 - 15:00| Small groups| Small groups  | Small groups  |Small groups|Small groups|
 |15:00 - 15:30|Coffee break|Coffee break|Coffee break|Coffee break|Coffee break|
-|15:30 - 17:00|Short talks|AI in Math|Small groups|Small groups|Wrap-up|
+|15:30 - 17:00|Short talks|AI in Math|Free afternoon|Small groups|Wrap-up|
 |19:30|Dinner|Dinner|BBQ|Dinner|Dinner|
 
 <br>
@@ -88,11 +88,10 @@ The bus will leave Matkakeskus in Jyväskylä (next to the train station) at 8 P
 - Damian Dąbrowski
 - E Koenig
 - Emily Casey
-- Ignacio Tejeda
+- Ian Fleschler
 - Ivan Violo
 - Jared Krandel
 - John Hoffman
-- Marcin Gryszówka
 - Matthew Hyde
 - Michele Villa
 - Polina Perstneva
@@ -105,6 +104,6 @@ The bus will leave Matkakeskus in Jyväskylä (next to the train station) at 8 P
 
 <center><img title="EU and ERC logos" alt="Funded by the European Union and the European Research Council" src="/images/logo-erc.png" width="400"></center>
 
-Funded by the European Union. Views and opinions expressed are however those of the author(s) only
+Funded by the European Union (ERC 101087499 MUSING). Views and opinions expressed are however those of the author(s) only
 and do not necessarily reflect those of the European Union or European Research Council. Neither
 the European Union nor the granting authority can be held responsible for them.
