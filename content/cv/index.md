@@ -39,6 +39,7 @@ _Quantitative rectifiability and harmonic measure beyond the Ahlfors-David-regul
 
 ## Awards
 
+- Polish Minister of Science scholarship for young scientists (2026)
 - Vicent Caselles award (2022)
 
 ## Research stays
@@ -67,5 +68,5 @@ _Quantitative rectifiability and harmonic measure beyond the Ahlfors-David-regul
 
 - member of the Scientific Council at IMPAN, 2026
 - co-organizer of [Seminar in Geometric Function and Mapping Theory](https://sites.google.com/impan.pl/seminar-gfmt/), IMPAN, 2025--
-- co-organizer of the GMTKonnevesi workshop, 2026
+- co-organizer of the [GMTKonnevesi workshop](/gmtkonnevesi), 2026
 - co-organizer of [AGENT Forum 2024](https://agent-forum.github.io/), University of Jyväskylä, 2024
