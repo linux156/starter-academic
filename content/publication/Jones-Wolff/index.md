@@ -8,7 +8,7 @@ authors:
 - D. Dąbrowski
 - X. Tolsa
 
-date: "2024-02-14T00:00:00Z"
+date: "2026-07-14T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -21,9 +21,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: To appear in Mem. Amer. Math. Soc.
-publication_short: To appear in Mem. Amer. Math. Soc
-
+publication: Mem. Amer. Math. Soc. 321, no. 1634.
+publication_short: em. Amer. Math. Soc. 321, no. 1634
 abstract: "In this work we obtain a geometric characterization of the measures $\\mu$ in $\\mathbb{R}^{n+1}$ with polynomial upper growth of degree $n$ such that the $n$-dimensional Riesz transform $\\mathcal{R}\\mu (x) = \\int \\frac{x-y}{|x-y|^{n+1}}d\\mu(y)$ belongs to $L^2(\\mu)$. More precisely, we show that $$\\|\\mathcal{R}\\mu\\|_{L^2(\\mu)}^2 + \\|\\mu\\|\\approx \\int\\int_0^\\infty \\beta_{\\mu,2}(x,r)^2\\frac{\\mu(B(x,r))}{r^n}\\frac{dr}r d\\mu(x) + \\|\\mu\\|,$$ where $\\beta_{\\mu,2}(x,r)^2 = \\inf_L \\frac1{r^n}\\int_{B(x,r)} \\left(\\frac{\\mathrm{dist}(y,L)}r\\right)^2d\\mu(y),$ with the infimum taken over all affine $n$-planes $L\\subset\\mathbb{R}^{n+1}$. As a corollary, we obtain a characterization of the removable sets for Lipschitz harmonic functions in terms of a metric-geometric potential and we deduce that the class of removable sets for Lipschitz harmonic functions is invariant by bilipschitz mappings."
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -35,6 +34,8 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
+- name: "Article"
+  url: "https://doi.org/10.1090/memo/1634"
 - name: "arXiv"
   url: "https://arxiv.org/abs/2402.08615"
 
