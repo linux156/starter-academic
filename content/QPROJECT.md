@@ -49,6 +49,10 @@ The third problem is the **visibility conjecture** from fractal geometry, which 
 <br>
 
 **PI:** Damian Dąbrowski
+**Postdocs:** 
+- [Fernando Ballesta Yagüe](https://sites.google.com/view/fernandoballestayague), starting Feb 2027
+**PhD student:**
+- Yiheng Dong (co-advised with Tomasz Adamowicz)
 
 **Planned openings**: 
 - 1 postdoc starting from 2027,
