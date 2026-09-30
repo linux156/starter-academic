@@ -40,8 +40,8 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
-url_slides: ""
-url_video: ""
+url_slides: "/talks/Dabrowski-talk-IML2026.pdf"
+url_video: "https://www.mittag-leffler.se/activities/interactions-between-fractal-geometry-harmonic-analysis-and-dynamical-systems/#recordings"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
