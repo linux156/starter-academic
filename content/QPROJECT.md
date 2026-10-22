@@ -56,8 +56,10 @@ The third problem is the **visibility conjecture** from fractal geometry, which 
 **PhD student:**
 - Yiheng Dong (co-advised with Tomasz Adamowicz)
 
+**Open positions**:
+- a 2 year postdoc position, see [the call](https://www.impan.pl/en/job-offers/open-calls/1910-postdoc-erc-stg-2025-qproject-dabrowski-ang).
+
 **Planned openings**: 
-- 1 postdoc starting from 2027,
 - 1 postdoc starting from 2028.
 
 
