@@ -36,6 +36,8 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
+- name: "Article"
+  url: "https://doi.org/10.4171/jems/1830"
 - name: "arXiv"
   url: "https://arxiv.org/abs/2407.00306"
 
