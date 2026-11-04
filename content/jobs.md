@@ -24,6 +24,7 @@ header:
 
 If you would like to join my research group at IMPAN as a postdoc, here are some funding opportunities:
 - Currently there is an **open 2 year postdoc position** in my grant, application deadline 31st Dec. See [the call](https://www.impan.pl/en/job-offers/open-calls/1910-postdoc-erc-stg-2025-qproject-dabrowski-ang).
+- Another postdoc position in my grant is planned for 2028, with the competition announced in late 2027.
 - The annual postdoc call at IMPAN with application deadline in January. Here is the [2026 call](https://www.impan.pl/en/job-offers/closed-calls/1779-open-call-for-temporary-research-positions?layout=default) for reference.
 - The annual postdoc call at IMPAN targeted at applicants with <=2 years from PhD, application deadline in May. Here is the [2026 call](https://www.impan.pl/en/job-offers/closed-calls/1825-open-call-young-mathematicians-2026?layout=default) for reference.
 - I am happy to host [MSCA postdoctoral fellows](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships), application deadline in September.
