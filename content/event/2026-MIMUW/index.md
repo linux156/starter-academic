@@ -13,7 +13,7 @@ location: Uniwersytet Warszawski
 #  country: United States
 
 summary: ""
-abstract: "Favard length of a planar compact set is the average length of its orthogonal projections. It has been known for a long time that given a nice enough self-similar set of dimension 1, its Favard length is zero. Consequently, the Favard length of delta-neighbourhoods of such sets converges to 0 as delta goes to 0. The "Favard length problem", first posed by Peres and Solomyak in 2002, asks about the rate of convergence. The original motivation comes from the Vitushkin’s conjecture in complex analysis, which concerns removable sets for bounded analytic functions. In this talk I will discuss recent work with Alan Chang and Giacomo Del Nin on some random variant of this problem."
+abstract: "Favard length of a planar compact set is the average length of its orthogonal projections. It has been known for a long time that given a nice enough self-similar set of dimension 1, its Favard length is zero. Consequently, the Favard length of delta-neighbourhoods of such sets converges to 0 as delta goes to 0. The “Favard length problem”, first posed by Peres and Solomyak in 2002, asks about the rate of convergence. The original motivation comes from the Vitushkin’s conjecture in complex analysis, which concerns removable sets for bounded analytic functions. In this talk I will discuss recent work with Alan Chang and Giacomo Del Nin on some random variant of this problem."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
