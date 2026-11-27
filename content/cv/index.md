@@ -44,7 +44,8 @@ _Quantitative rectifiability and harmonic measure beyond the Ahlfors-David-regul
 
 ## Research stays
 
-- Universitat Autònoma de Barcelona, Oct-Nov 2024
+- Institut Mittag-Leffler, Semester on Interactions between fractal geometry, harmonic analysis, and dynamical systems, Sep 2026
+- Universitat Autònoma de Barcelona, Oct--Nov 2024
 - HIM (Bonn), Trimester Programme on Interactions between GMT, Singular integrals, and PDE, Feb--Mar 2022  
 - University of Edinburgh, Feb--May 2020  
 - IMPAN, Simons semester on geometry and analysis, Oct 2019  
